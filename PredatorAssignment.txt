@@ -1,0 +1,110 @@
+#Trace DNA from kill sites identifies individual predators#
+#Authors: Himanshu Chhattani, Abishek Harihar, Rounak Dean, Ajay Yadav, Kaushal Patel, Divyashree Rana, Awadhesh Pandit, Sanjay Kumar Shukla, Vincent Rahim, Uma Ramakrishnan
+
+library(tidyverse)
+
+# READ DATASET##
+# OUR DATASET HAS COLUMNS WITH FOLLOWING NAME Sample_ID, Kill.ID, Category, IndID, Sample.Category, Species
+Data = read.csv("abc.csv")
+
+#### CLEANING UP THE DATASET #### 
+# FILTERING OUT ROWS OF SAMPLES WHERE SPECIES COULDN'T BE IDENTIFIED AS NEITHER SPECIES NOR INDIVIDUAL ASSIGNMENT IS POSSIBLE#
+
+filtered_rows = Data %>% filter(is.na(Species))
+
+
+Data_woSpecies <- Data %>% filter(!is.na(Species))
+
+#### SPECIES ASSIGNMENT ####
+
+Data_woSpecies <- Data_woSpecies %>%
+  group_by(Kill.ID) %>%
+  mutate(Predator_Species = ifelse(any(Sample.Category == "Predation"), Species[Sample.Category == "Predation"], NA)) %>%
+  fill(Predator_Species, .direction = "down") %>%
+  mutate(Species_Assignment = ifelse(is.na(Predator_Species), 
+                                     ifelse(n() == 1 & Sample.Category == "Non-Predation", "Predator uncertain Species",
+                                            ifelse(all(Species == first(Species)) && n() > 1, "Circumstantial predator Species", "Predator uncertain Species")),
+                                     ifelse(Species == Predator_Species, "True Predator Species", "Predator uncertain Species")))
+
+
+#### INDIVIDUAL ASSIGNMENT ####
+# CREATING A COLUMN FOR ASSIGNMENT WITH NA's #
+Data = Data_woSpecies %>% mutate(Individual_Assignment = NA)
+
+# STEP 1: Assigning True Predator Individual to individuals identified from Predation sample and Predator uncertain Individual to other individuals identified at the site from Post predation sample # 
+step1 = Data  %>%
+  group_by(Kill.ID) %>%
+  filter(any(!is.na(IndID) & Sample.Category == "Predation")) %>%
+  mutate(Individual_Assignment = ifelse(
+    Sample.Category == "Predation" |
+      (Sample.Category != "Predation" & IndID %in% IndID[Sample.Category == "Predation"]),
+    "True Predator Individual",
+    ifelse(!is.na(IndID), "Predator uncertain Individual", NA_character_)
+  )) %>%
+  ungroup()
+
+step1 = step1 %>%
+  mutate(Individual_Assignment = ifelse(is.na(IndID), "NA", Individual_Assignment)) # Assinging NA to samples where individual un-identfied #
+
+
+## STEP 2: Assigning circumstantial individual predator when species assignment is either TPS or CPS, and all the samples from a kill ID (>1) identify only one individual ##
+step2 <- Data %>% anti_join(step1, by = "Sample_ID")  %>%
+  group_by(Kill.ID) %>%
+  filter(!any(Sample.Category == "Predation" & !is.na(IndID))) %>%
+  filter(sum(!is.na(IndID)) > 1) %>%
+  ungroup()
+
+
+step2 = step2 %>%
+  group_by(Kill.ID) %>%
+  mutate(
+    Individual_Assignment = ifelse(
+      all(Species_Assignment %in% c("True Predator Species", "Circumstantial Predator Species")) &&
+        length(unique(IndID[Species_Assignment %in% c("True Predator Species", "Circumstantial Predator Species")])) == 1,
+      "Circumstantial Predator Individual",
+      ifelse(
+        n_distinct(IndID, na.rm = TRUE) == 1 && n() > 1,
+        "Circumstantial Predator Individual",
+        ifelse(any(Species_Assignment == "Predator uncertain Species"), "Predator uncertain Individual", "Predator uncertain Individual")
+      )
+    )
+  ) %>%
+  ungroup()
+
+step2$Individual_Assignment = ifelse(is.na(step2$IndID), NA,
+                                     ifelse(step2$Species_Assignment == "Predator uncertain Species", "Predator uncertain Individual",
+                                            ifelse(is.na(step2$Species), "NA", step2$Individual_Assignment)))
+
+view(step2)
+
+## STEP 3: Assigning Predator uncertain Individual, if there is only one sample from a site with individual id and the category of sample used for identification is not Predation ##
+
+step3 <- Data %>% anti_join(step2, by = "Sample_ID") %>%
+  group_by(Kill.ID) %>%
+  filter(sum(!is.na(IndID)) == 1 & all(Sample.Category != "Predation")) %>%
+  mutate(
+    Individual_Assignment = ifelse(!is.na(IndID), "Predator uncertain Individual", NA_character_)
+  ) %>%
+  ungroup()
+
+view(step3)
+
+# STEP 4: Assigning Predator uncertain Individual, if there is only one sample from a site and the species assignment is Predator uncertain species ##
+step4 <- Data %>% anti_join(step3, by = "Sample_ID") %>%
+  group_by(Kill.ID) %>%
+  filter(n() == 1) %>% filter(Species_Assignment != "True Predator Species") %>%
+  mutate(Individual_Assignment = ifelse(Species_Assignment == "Predator uncertain Species" & !is.na(IndID), "Predator uncertain Individual", NA))
+
+## STEP 5: Assigning NA in Individual Assignment whereever IndID is NA ##
+step5 = Data %>% group_by(Kill.ID) %>% anti_join(rbind(step1,step2,step3,step4), by = "Sample_ID")  %>% filter(all(is.na(IndID))) %>%
+  mutate(Individual_Assignment = NA)
+
+## STEP 6: 
+step6 <- Data %>% anti_join(rbind(step1,step2,step3,step4, step5), by = "Sample_ID") %>%
+  group_by(Kill.ID) %>% filter(Species_Assignment == "True Predator Species") %>%
+  mutate(Individual_Assignment = ifelse(is.na(IndID), "NA", "Predator uncertain Individual"))
+
+
+Data_IndAssignment = rbind(step1,step2,step3,step4, step5, step6) # binding all the data with individual assignment steps, check the number of rows of dataframe from species assignment (Data_woSpecies) is same as Data_BTR21.KTR21_IndAssignment
+
+Data_Assignment <- bind_rows(filtered_rows, Data_IndAssignment) #adding back filtered out rows without species assignment to complete data
