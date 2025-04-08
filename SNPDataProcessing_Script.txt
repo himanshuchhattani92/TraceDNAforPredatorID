@@ -1,4 +1,4 @@
-#Trace DNA from kill sites identifies predating tigers#
+#Trace DNA from kill sites identifies individual predators#
 #Authors: Himanshu Chhattani, Abishek Harihar, Rounak Dean, Ajay Yadav, Kaushal Patel, Divyashree Rana, Awadhesh Pandit, Sanjay Kumar Shukla, Vincent Rahim, Uma Ramakrishnan
 #Script adopted from Natesh et al, 2019 and Sagar et al, 2021.
 
