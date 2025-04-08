@@ -1,0 +1,771 @@
+Sr.no,Reserve,KillID,SampleID,SampleType,SampleCategory,Season,Species,AllSNPTyped,FilteredSNP,IndSuccess
+1,Kanha2017,C01-KTR17-03,C01-KTR17-03-SH01,SHED HAIR,Post predation,Winter,Tiger,7,7,No
+2,Kanha2017,C01-KTR17-03,C01-KTR17-03-SL01,SALIVA,Post predation,Winter,Tiger,41,39,No
+3,Kanha2017,C01-KTR17-03,C01-KTR17-03-SL02,SALIVA,Post predation,Winter,Tiger,58,56,Yes
+4,Kanha2017,C01-KTR17-03,C01-KTR17-03-SL03,SALIVA,Post predation,Winter,Tiger,21,21,No
+5,Kanha2017,C01-KTR17-07,C01-KTR17-07-SL01,SALIVA,Predation,Winter,Tiger,46,44,Yes
+6,Kanha2017,C01-KTR17-07,C01-KTR17-07-SL02,SALIVA,Post predation,Winter,Tiger,108,100,Yes
+7,Kanha2017,C01-KTR17-07,C01-KTR17-07-SL03,SALIVA,Post predation,Winter,Tiger,91,87,Yes
+8,Kanha2017,C01-KTR17-118,C01-KTR17-118-SH01,SHED HAIR,Post predation,Monsoon,Tiger,74,71,Yes
+9,Kanha2017,C01-KTR17-118,C01-KTR17-118-SL01,SALIVA,Post predation,Monsoon,Tiger,78,75,Yes
+10,Kanha2017,C01-KTR17-118,C01-KTR17-118-SL02,SALIVA,Post predation,Monsoon,Tiger,25,24,No
+11,Kanha2017,C01-KTR17-119,C01-KTR17-119-SH01,SHED HAIR,Post predation,Monsoon,Tiger,75,72,Yes
+12,Kanha2017,C01-KTR17-11,C01-KTR17-11-SH01,SHED HAIR,Post predation,Winter,Tiger,83,80,Yes
+13,Kanha2017,C01-KTR17-11,C01-KTR17-11-SL01,SALIVA,Post predation,Winter,Tiger,62,59,Yes
+14,Kanha2017,C01-KTR17-11,C01-KTR17-11-SL02,SALIVA,Post predation,Winter,Tiger,29,27,No
+15,Kanha2017,C01-KTR17-11,C01-KTR17-11-SL03,SALIVA,Post predation,Winter,Tiger,41,38,No
+16,Kanha2017,C01-KTR17-120,C01-KTR17-120-SH01,SHED HAIR,Post predation,Monsoon,Tiger,101,97,Yes
+17,Kanha2017,C01-KTR17-120,C01-KTR17-120-SL01,SALIVA,Post predation,Monsoon,Tiger,93,87,Yes
+18,Kanha2017,C01-KTR17-120,C01-KTR17-120-SL02,SALIVA,Post predation,Monsoon,Tiger,54,52,Yes
+19,Kanha2017,C01-KTR17-121,C01-KTR17-121-SC01,SCAT,Post predation,Monsoon,Tiger,72,68,Yes
+20,Kanha2017,C01-KTR17-121,C01-KTR17-121-SC02,SCAT,Post predation,Monsoon,Tiger,59,56,Yes
+21,Kanha2017,C01-KTR17-121,C01-KTR17-121-SL01,SALIVA,Predation,Monsoon,Tiger,69,67,Yes
+22,Kanha2017,C01-KTR17-121,C01-KTR17-121-SL02,SALIVA,Post predation,Monsoon,Tiger,39,37,No
+23,Kanha2017,C01-KTR17-121,C01-KTR17-121-SL03,SALIVA,Post predation,Monsoon,Tiger,40,39,No
+24,Kanha2017,C01-KTR17-122,C01-KTR17-122-SC04,SCAT,Post predation,Monsoon,Tiger,101,96,Yes
+25,Kanha2017,C01-KTR17-122,C01-KTR17-122-SH01,SHED HAIR,Post predation,Monsoon,Tiger,50,47,Yes
+26,Kanha2017,C01-KTR17-122,C01-KTR17-122-SL01,SALIVA,Predation,Monsoon,Tiger,16,16,No
+27,Kanha2017,C01-KTR17-122,C01-KTR17-122-SL02,SALIVA,Post predation,Monsoon,Tiger,94,91,Yes
+28,Kanha2017,C01-KTR17-122,C01-KTR17-122-SL03,SALIVA,Post predation,Monsoon,Tiger,101,97,Yes
+29,Kanha2017,C01-KTR17-123,C01-KTR17-123-SL01,SALIVA,Predation,Monsoon,Tiger,87,83,Yes
+30,Kanha2017,C01-KTR17-123,C01-KTR17-123-SL02,SALIVA,Post predation,Monsoon,Tiger,93,90,Yes
+31,Kanha2017,C01-KTR17-123,C01-KTR17-123-SL03,SALIVA,Post predation,Monsoon,Tiger,77,73,Yes
+32,Kanha2017,C01-KTR17-125,C01-KTR17-125-SH01,SHED HAIR,Post predation,Monsoon,Tiger,69,66,Yes
+33,Kanha2017,C01-KTR17-125,C01-KTR17-125-SL01,SALIVA,Predation,Monsoon,Tiger,26,25,No
+34,Kanha2017,C01-KTR17-125,C01-KTR17-125-SL02,SALIVA,Post predation,Monsoon,Tiger,6,6,No
+35,Kanha2017,C01-KTR17-125,C01-KTR17-125-SL03,SALIVA,Post predation,Monsoon,Tiger,68,66,Yes
+36,Kanha2017,C01-KTR17-126,C01-KTR17-126-SH01,SHED HAIR,Post predation,Monsoon,Tiger,57,55,Yes
+37,Kanha2017,C01-KTR17-126,C01-KTR17-126-SL01,SALIVA,Post predation,Monsoon,Tiger,19,19,No
+38,Kanha2017,C01-KTR17-126,C01-KTR17-126-SL02,SALIVA,Post predation,Monsoon,Tiger,21,21,No
+39,Kanha2017,C01-KTR17-126,C01-KTR17-126-SL03,SALIVA,Post predation,Monsoon,Tiger,16,16,No
+40,Kanha2017,C01-KTR17-127,C01-KTR17-127-SH01,SHED HAIR,Post predation,Monsoon,Tiger,17,17,No
+41,Kanha2017,C01-KTR17-128,C01-KTR17-128-SL01,SALIVA,Predation,Monsoon,Tiger,24,22,No
+42,Kanha2017,C01-KTR17-128,C01-KTR17-128-SL02,SALIVA,Post predation,Monsoon,Tiger,31,30,No
+43,Kanha2017,C01-KTR17-128,C01-KTR17-128-SL03,SALIVA,Post predation,Monsoon,Tiger,29,29,No
+44,Kanha2017,C01-KTR17-129,C01-KTR17-129-SH01,SHED HAIR,Post predation,Monsoon,Tiger,92,89,Yes
+45,Kanha2017,C01-KTR17-129,C01-KTR17-129-SL01,SALIVA,Predation,Monsoon,Tiger,68,65,Yes
+46,Kanha2017,C01-KTR17-129,C01-KTR17-129-SL02,SALIVA,Post predation,Monsoon,Tiger,56,54,Yes
+47,Kanha2017,C01-KTR17-129,C01-KTR17-129-SL03,SALIVA,Post predation,Monsoon,Tiger,61,59,Yes
+48,Kanha2017,C01-KTR17-12,C01-KTR17-12-SH01,SHED HAIR,Post predation,Winter,Tiger,56,54,Yes
+49,Kanha2017,C01-KTR17-12,C01-KTR17-12-SL01,SALIVA,Predation,Winter,Tiger,36,34,No
+50,Kanha2017,C01-KTR17-12,C01-KTR17-12-SL02,SALIVA,Predation,Winter,Tiger,45,41,Yes
+51,Kanha2017,C01-KTR17-12,C01-KTR17-12-SL03,SALIVA,Predation,Winter,Tiger,66,63,Yes
+52,Kanha2017,C01-KTR17-131,C01-KTR17-131-SL01,SALIVA,Post predation,Monsoon,Tiger,67,66,Yes
+53,Kanha2017,C01-KTR17-131,C01-KTR17-131-SL02,SALIVA,Post predation,Monsoon,Tiger,78,76,Yes
+54,Kanha2017,C01-KTR17-132,C01-KTR17-132-SH01,SHED HAIR,Post predation,Monsoon,Tiger,106,101,Yes
+55,Kanha2017,C01-KTR17-132,C01-KTR17-132-SL01,SALIVA,Predation,Monsoon,Tiger,91,88,Yes
+56,Kanha2017,C01-KTR17-132,C01-KTR17-132-SL02,SALIVA,Predation,Monsoon,Tiger,99,94,Yes
+57,Kanha2017,C01-KTR17-132,C01-KTR17-132-SL03,SALIVA,Post predation,Monsoon,Tiger,47,43,Yes
+58,Kanha2017,C01-KTR17-136,C01-KTR17-136-SL01,SALIVA,Post predation,Monsoon,Tiger,1,1,No
+59,Kanha2017,C01-KTR17-136,C01-KTR17-136-SL02,SALIVA,Post predation,Monsoon,Tiger,7,7,No
+60,Kanha2017,C01-KTR17-137,C01-KTR17-137-SL01,SALIVA,Post predation,Monsoon,Tiger,25,25,No
+61,Kanha2017,C01-KTR17-137,C01-KTR17-137-SL02,SALIVA,Post predation,Monsoon,Tiger,45,44,Yes
+62,Kanha2017,C01-KTR17-138,C01-KTR17-138-SL01,SALIVA,Predation,Monsoon,Tiger,36,34,No
+63,Kanha2017,C01-KTR17-138,C01-KTR17-138-SL02,SALIVA,Post predation,Monsoon,Tiger,64,61,Yes
+64,Kanha2017,C01-KTR17-138,C01-KTR17-138-SL03,SALIVA,Post predation,Monsoon,Tiger,32,30,No
+65,Kanha2017,C01-KTR17-139,C01-KTR17-139-SL01,SALIVA,Post predation,Monsoon,Tiger,67,66,Yes
+66,Kanha2017,C01-KTR17-139,C01-KTR17-139-SL02,SALIVA,Post predation,Monsoon,Tiger,39,38,No
+67,Kanha2017,C01-KTR17-139,C01-KTR17-139-SL03,SALIVA,Post predation,Monsoon,Tiger,51,49,Yes
+68,Kanha2017,C01-KTR17-13,C01-KTR17-13-SL01,SALIVA,Post predation,Winter,Tiger,87,84,Yes
+69,Kanha2017,C01-KTR17-13,C01-KTR17-13-SL02,SALIVA,Predation,Winter,Tiger,49,46,Yes
+70,Kanha2017,C01-KTR17-13,C01-KTR17-13-SL03,SALIVA,Predation,Winter,Tiger,77,74,Yes
+71,Kanha2017,C01-KTR17-140,C01-KTR17-140-SL01,SALIVA,Post predation,Monsoon,Tiger,73,70,Yes
+72,Kanha2017,C01-KTR17-140,C01-KTR17-140-SL02,SALIVA,Post predation,Monsoon,Tiger,31,31,No
+73,Kanha2017,C01-KTR17-140,C01-KTR17-140-SL03,SALIVA,Post predation,Monsoon,Tiger,84,80,Yes
+74,Kanha2017,C01-KTR17-142,C01-KTR17-142-SL01,SALIVA,Predation,Monsoon,Tiger,64,61,Yes
+75,Kanha2017,C01-KTR17-142,C01-KTR17-142-SL02,SALIVA,Predation,Monsoon,Tiger,12,12,No
+76,Kanha2017,C01-KTR17-142,C01-KTR17-142-SL03,SALIVA,Post predation,Monsoon,Tiger,53,52,Yes
+77,Kanha2017,C01-KTR17-143,C01-KTR17-143-SL01,SALIVA,Predation,Monsoon,Tiger,58,57,Yes
+78,Kanha2017,C01-KTR17-143,C01-KTR17-143-SL02,SALIVA,Predation,Monsoon,Tiger,30,30,No
+79,Kanha2017,C01-KTR17-143,C01-KTR17-143-SL03,SALIVA,Post predation,Monsoon,Tiger,110,103,Yes
+80,Kanha2017,C01-KTR17-144,C01-KTR17-144-SC01,SCAT,Post predation,Monsoon,Tiger,88,84,Yes
+81,Kanha2017,C01-KTR17-144,C01-KTR17-144-SC02,SCAT,Post predation,Monsoon,Tiger,52,49,Yes
+82,Kanha2017,C01-KTR17-144,C01-KTR17-144-SL01,SALIVA,Post predation,Monsoon,Tiger,27,26,No
+83,Kanha2017,C01-KTR17-144,C01-KTR17-144-SL02,SALIVA,Post predation,Monsoon,Tiger,22,22,No
+84,Kanha2017,C01-KTR17-145,C01-KTR17-145-SL01,SALIVA,Post predation,Monsoon,Tiger,104,99,Yes
+85,Kanha2017,C01-KTR17-145,C01-KTR17-145-SL02,SALIVA,Post predation,Monsoon,Tiger,32,30,No
+86,Kanha2017,C01-KTR17-145,C01-KTR17-145-SL03,SALIVA,Post predation,Monsoon,Tiger,103,98,Yes
+87,Kanha2017,C01-KTR17-146,C01-KTR17-146-SH01,SHED HAIR,Post predation,Monsoon,Tiger,25,23,No
+88,Kanha2017,C01-KTR17-14,C01-KTR17-14-SH01,SHED HAIR,Post predation,Winter,Tiger,24,22,No
+89,Kanha2017,C01-KTR17-14,C01-KTR17-14-SL01,SALIVA,Post predation,Winter,Tiger,81,77,Yes
+90,Kanha2017,C01-KTR17-14,C01-KTR17-14-SL02,SALIVA,Post predation,Winter,Tiger,37,36,No
+91,Kanha2017,C01-KTR17-14,C01-KTR17-14-SL03,SALIVA,Post predation,Winter,Tiger,43,41,Yes
+92,Kanha2017,C01-KTR17-153,C01-KTR17-153-SL01,SALIVA,Post predation,Monsoon,Tiger,43,42,Yes
+93,Kanha2017,C01-KTR17-153,C01-KTR17-153-SL02,SALIVA,Predation,Monsoon,Tiger,18,18,No
+94,Kanha2017,C01-KTR17-153,C01-KTR17-153-SL03,SALIVA,Post predation,Monsoon,Tiger,19,19,No
+95,Kanha2017,C01-KTR17-157,C01-KTR17-157-SL01,SALIVA,Predation,Monsoon,Tiger,67,65,Yes
+96,Kanha2017,C01-KTR17-157,C01-KTR17-157-SL02,SALIVA,Predation,Monsoon,Tiger,52,50,Yes
+97,Kanha2017,C01-KTR17-157,C01-KTR17-157-SL03,SALIVA,Post predation,Monsoon,Tiger,3,3,No
+98,Kanha2017,C01-KTR17-159,C01-KTR17-159-SH01,SHED HAIR,Post predation,Monsoon,Tiger,90,86,Yes
+99,Kanha2017,C01-KTR17-159,C01-KTR17-159-SL01,SALIVA,Post predation,Monsoon,Tiger,31,29,No
+100,Kanha2017,C01-KTR17-159,C01-KTR17-159-SL02,SALIVA,Predation,Monsoon,Tiger,1,1,No
+101,Kanha2017,C01-KTR17-159,C01-KTR17-159-SL03,SALIVA,Post predation,Monsoon,Tiger,38,36,No
+102,Kanha2017,C01-KTR17-15,C01-KTR17-15-SC01,SCAT,Post predation,Winter,Tiger,109,102,Yes
+103,Kanha2017,C01-KTR17-15,C01-KTR17-15-SC02,SCAT,Post predation,Winter,Tiger,103,99,Yes
+104,Kanha2017,C01-KTR17-15,C01-KTR17-15-SC03,SCAT,Post predation,Winter,Tiger,106,100,Yes
+105,Kanha2017,C01-KTR17-15,C01-KTR17-15-SC04,SCAT,Post predation,Winter,Tiger,119,103,Yes
+106,Kanha2017,C01-KTR17-15,C01-KTR17-15-SC05,SCAT,Post predation,Winter,Tiger,70,66,Yes
+107,Kanha2017,C01-KTR17-15,C01-KTR17-15-SH01,SHED HAIR,Post predation,Winter,Tiger,113,103,Yes
+108,Kanha2017,C01-KTR17-15,C01-KTR17-15-SH02,SHED HAIR,Post predation,Winter,Tiger,110,101,Yes
+109,Kanha2017,C01-KTR17-15,C01-KTR17-15-SH03,SHED HAIR,Post predation,Winter,Tiger,87,84,Yes
+110,Kanha2017,C01-KTR17-15,C01-KTR17-15-SL01,SALIVA,Post predation,Winter,Tiger,102,98,Yes
+111,Kanha2017,C01-KTR17-15,C01-KTR17-15-SL02,SALIVA,Post predation,Winter,Tiger,4,4,No
+112,Kanha2017,C01-KTR17-15,C01-KTR17-15-SL03,SALIVA,Post predation,Winter,Tiger,84,81,Yes
+113,Kanha2017,C01-KTR17-162,C01-KTR17-162-SH01,SHED HAIR,Post predation,Monsoon,Tiger,80,77,Yes
+114,Kanha2017,C01-KTR17-162,C01-KTR17-162-SL01,SALIVA,Post predation,Monsoon,Tiger,100,93,Yes
+115,Kanha2017,C01-KTR17-163,C01-KTR17-163-SL01,SALIVA,Post predation,Monsoon,Tiger,14,12,No
+116,Kanha2017,C01-KTR17-166,C01-KTR17-166-SH01,SHED HAIR,Post predation,Monsoon,Tiger,42,40,Yes
+117,Kanha2017,C01-KTR17-166,C01-KTR17-166-SH02,SHED HAIR,Post predation,Monsoon,Tiger,61,58,Yes
+118,Kanha2017,C01-KTR17-166,C01-KTR17-166-SL01,SALIVA,Post predation,Monsoon,Tiger,70,67,Yes
+119,Kanha2017,C01-KTR17-166,C01-KTR17-166-SL02,SALIVA,Post predation,Monsoon,Tiger,46,45,Yes
+120,Kanha2017,C01-KTR17-166,C01-KTR17-166-SL03,SALIVA,Post predation,Monsoon,Tiger,41,40,Yes
+121,Kanha2017,C01-KTR17-168,C01-KTR17-168-SH01,SHED HAIR,Post predation,Monsoon,Tiger,106,102,Yes
+122,Kanha2017,C01-KTR17-168,C01-KTR17-168-SL01,SALIVA,Predation,Monsoon,Tiger,26,25,No
+123,Kanha2017,C01-KTR17-168,C01-KTR17-168-SL02,SALIVA,Post predation,Monsoon,Tiger,35,35,No
+124,Kanha2017,C01-KTR17-168,C01-KTR17-168-SL03,SALIVA,Post predation,Monsoon,Tiger,31,29,No
+125,Kanha2017,C01-KTR17-174,C01-KTR17-174-SL01,SALIVA,Predation,Monsoon,Tiger,70,67,Yes
+126,Kanha2017,C01-KTR17-174,C01-KTR17-174-SL02,SALIVA,Post predation,Monsoon,Tiger,86,82,Yes
+127,Kanha2017,C01-KTR17-174,C01-KTR17-174-SL03,SALIVA,Post predation,Monsoon,Tiger,108,102,Yes
+128,Kanha2017,C01-KTR17-19,C01-KTR17-19-SH01,SHED HAIR,Post predation,Summer,Tiger,105,100,Yes
+129,Kanha2017,C01-KTR17-19,C01-KTR17-19-SL01,SALIVA,Post predation,Summer,Tiger,104,99,Yes
+130,Kanha2017,C01-KTR17-19,C01-KTR17-19-SL03,SALIVA,Post predation,Summer,Tiger,95,92,Yes
+131,Kanha2017,C01-KTR17-19,C01-KTR17-19-SL04,SALIVA,Post predation,Summer,Tiger,18,18,No
+132,Kanha2017,C01-KTR17-19,C01-KTR17-19-SL05,SALIVA,Predation,Summer,Tiger,27,25,No
+133,Kanha2017,C01-KTR17-19,C01-KTR17-19-SL07,SALIVA,Post predation,Summer,Tiger,105,100,Yes
+134,Kanha2017,C01-KTR17-20,C01-KTR17-20-SL01,SALIVA,Post predation,Summer,Tiger,107,100,Yes
+135,Kanha2017,C01-KTR17-20,C01-KTR17-20-SL02,SALIVA,Post predation,Summer,Tiger,110,100,Yes
+136,Kanha2017,C01-KTR17-20,C01-KTR17-20-SL03,SALIVA,Post predation,Summer,Tiger,99,96,Yes
+137,Kanha2017,C01-KTR17-20,C01-KTR17-20-SL04,SALIVA,Predation,Summer,Tiger,77,74,Yes
+138,Kanha2017,C01-KTR17-32,C01-KTR17-32-SL01,SALIVA,Predation,Summer,Tiger,91,87,Yes
+139,Kanha2017,C01-KTR17-32,C01-KTR17-32-SL02,SALIVA,Predation,Summer,Tiger,92,89,Yes
+140,Kanha2017,C01-KTR17-33,C01-KTR17-33-SC01,SCAT,Post predation,Summer,Tiger,38,36,No
+141,Kanha2017,C01-KTR17-33,C01-KTR17-33-SL01,SALIVA,Post predation,Summer,Tiger,56,53,Yes
+142,Kanha2017,C01-KTR17-33,C01-KTR17-33-SL02,SALIVA,Post predation,Summer,Tiger,96,90,Yes
+143,Kanha2017,C01-KTR17-33,C01-KTR17-33-SL03,SALIVA,Post predation,Summer,Tiger,85,81,Yes
+144,Kanha2017,C01-KTR17-34,C01-KTR17-34-SC01,SCAT,Post predation,Summer,Tiger,69,67,Yes
+145,Kanha2017,C01-KTR17-34,C01-KTR17-34-SC02,SCAT,Post predation,Summer,Tiger,14,14,No
+146,Kanha2017,C01-KTR17-34,C01-KTR17-34-SC03,SCAT,Post predation,Summer,Tiger,111,102,Yes
+147,Kanha2017,C01-KTR17-34,C01-KTR17-34-SC04,SCAT,Post predation,Summer,Tiger,81,78,Yes
+148,Kanha2017,C01-KTR17-34,C01-KTR17-34-SH01,SHED HAIR,Post predation,Summer,Tiger,103,99,Yes
+149,Kanha2017,C01-KTR17-34,C01-KTR17-34-SH02,SHED HAIR,Post predation,Summer,Tiger,105,100,Yes
+150,Kanha2017,C01-KTR17-34,C01-KTR17-34-SL01,SALIVA,Post predation,Summer,Tiger,97,94,Yes
+151,Kanha2017,C01-KTR17-34,C01-KTR17-34-SL02,SALIVA,Post predation,Summer,Tiger,70,68,Yes
+152,Kanha2017,C01-KTR17-34,C01-KTR17-34-SL03,SALIVA,Post predation,Summer,Tiger,100,96,Yes
+153,Kanha2017,C01-KTR17-35,C01-KTR17-35-SH02,SHED HAIR,Post predation,Summer,Tiger,112,103,Yes
+154,Kanha2017,C01-KTR17-35,C01-KTR17-35-SH04,SHED HAIR,Post predation,Summer,Tiger,113,103,Yes
+155,Kanha2017,C01-KTR17-36,C01-KTR17-36-SH02,SHED HAIR,Post predation,Summer,Tiger,116,103,Yes
+156,Kanha2017,C01-KTR17-38,C01-KTR17-38-SH01,SHED HAIR,Post predation,Summer,Tiger,111,103,Yes
+157,Kanha2017,C01-KTR17-38,C01-KTR17-38-SH02,SHED HAIR,Post predation,Summer,Tiger,90,87,Yes
+158,Kanha2017,C01-KTR17-38,C01-KTR17-38-SL01,SALIVA,Predation,Summer,Tiger,26,26,No
+159,Kanha2017,C01-KTR17-38,C01-KTR17-38-SL02,SALIVA,Post predation,Summer,Tiger,30,27,No
+160,Kanha2017,C01-KTR17-38,C01-KTR17-38-SL03,SALIVA,Post predation,Summer,Tiger,60,57,Yes
+161,Kanha2017,C01-KTR17-43,C01-KTR17-43-SL02,SALIVA,Predation,Summer,Tiger,45,43,Yes
+162,Kanha2017,C01-KTR17-51,C01-KTR17-51-SL01,SALIVA,Predation,Summer,Tiger,1,1,No
+163,Kanha2017,C01-KTR17-51,C01-KTR17-51-SL02,SALIVA,Predation,Summer,Tiger,3,3,No
+164,Kanha2017,C01-KTR17-51,C01-KTR17-51-SL03,SALIVA,Predation,Summer,Tiger,105,100,Yes
+165,Kanha2017,C01-KTR17-53,C01-KTR17-53-SL01,SALIVA,Post predation,Summer,Tiger,1,1,No
+166,Kanha2017,C01-KTR17-53,C01-KTR17-53-SL02,SALIVA,Post predation,Summer,Tiger,0,0,No
+167,Kanha2017,C01-KTR17-53,C01-KTR17-53-SL03,SALIVA,Post predation,Summer,Tiger,20,19,No
+168,Kanha2017,C01-KTR17-54,C01-KTR17-54-SH01,SHED HAIR,Post predation,Summer,Tiger,109,102,Yes
+169,Kanha2017,C01-KTR17-54,C01-KTR17-54-SH02,SHED HAIR,Post predation,Summer,Tiger,107,100,Yes
+170,Kanha2017,C01-KTR17-55,C01-KTR17-55-SH01,SHED HAIR,Post predation,Summer,Tiger,106,100,Yes
+171,Kanha2017,C01-KTR17-55,C01-KTR17-55-SH02,SHED HAIR,Post predation,Summer,Tiger,98,94,Yes
+172,Kanha2017,C01-KTR17-55,C01-KTR17-55-SH04,SHED HAIR,Post predation,Summer,Tiger,93,90,Yes
+173,Kanha2017,C01-KTR17-55,C01-KTR17-55-SL01,SALIVA,Post predation,Summer,Tiger,1,1,No
+174,Kanha2017,C01-KTR17-55,C01-KTR17-55-SL02,SALIVA,Post predation,Summer,Tiger,2,2,No
+175,Kanha2017,C01-KTR17-55,C01-KTR17-55-SL03,SALIVA,Post predation,Summer,Tiger,101,97,Yes
+176,Kanha2017,C01-KTR17-57,C01-KTR17-57-SL01,SALIVA,Predation,Summer,Tiger,100,96,Yes
+177,Kanha2017,C01-KTR17-57,C01-KTR17-57-SL02,SALIVA,Post predation,Summer,Tiger,50,49,Yes
+178,Kanha2017,C01-KTR17-57,C01-KTR17-57-SL03,SALIVA,Post predation,Summer,Tiger,51,49,Yes
+179,Kanha2017,C01-KTR17-58,C01-KTR17-58-SH01,SHED HAIR,Post predation,Summer,Tiger,93,90,Yes
+180,Kanha2017,C01-KTR17-58,C01-KTR17-58-SL01,SALIVA,Predation,Summer,Tiger,105,101,Yes
+181,Kanha2017,C01-KTR17-58,C01-KTR17-58-SL02,SALIVA,Post predation,Summer,Tiger,65,62,Yes
+182,Kanha2017,C01-KTR17-58,C01-KTR17-58-SL03,SALIVA,Post predation,Summer,Tiger,107,101,Yes
+183,Kanha2017,C01-KTR17-97,C01-KTR17-97-SL01,SALIVA,Predation,Summer,Tiger,112,103,Yes
+184,Kanha2017,C01-KTR17-97,C01-KTR17-97-SL02,SALIVA,Predation,Summer,Tiger,84,80,Yes
+185,Kanha2017,C01-KTR17-98,C01-KTR17-98-SL01,SALIVA,Predation,Summer,Tiger,50,48,Yes
+186,Kanha2017,C01-KTR17-99,C01-KTR17-99-SL01,SALIVA,Predation,Summer,Tiger,88,84,Yes
+187,Bandhavgarh,C02-BTR21-37,C02-BTR21-037-SH01,SHED HAIR,Post predation,Summer,Tiger,56,52,Yes
+188,Bandhavgarh,C02-BTR21-43,C02-BTR21-043-SH01,SHED HAIR,Post predation,Summer,Tiger,64,62,Yes
+189,Bandhavgarh,C02-BTR21-43,C02-BTR21-043-SL01,SALIVA,Post predation,Summer,Tiger,7,7,No
+190,Bandhavgarh,C02-BTR21-43,C02-BTR21-043-SL02,SALIVA,Post predation,Summer,Tiger,7,7,No
+191,Bandhavgarh,C02-BTR21-43,C02-BTR21-043-SL03,SALIVA,Predation,Summer,Tiger,3,3,No
+192,Bandhavgarh,C02-BTR21-45,C02-BTR21-045-SH01,SHED HAIR,Post predation,Summer,Tiger,90,84,Yes
+193,Bandhavgarh,C02-BTR21-45,C02-BTR21-045-SH02,SHED HAIR,Post predation,Summer,Tiger,78,74,Yes
+194,Bandhavgarh,C02-BTR21-45,C02-BTR21-045-SL01,SALIVA,Predation,Summer,Tiger,19,18,No
+195,Bandhavgarh,C02-BTR21-45,C02-BTR21-045-SL02,SALIVA,Post predation,Summer,Tiger,46,43,Yes
+196,Bandhavgarh,C02-BTR21-46,C02-BTR21-046-SH01,SHED HAIR,Post predation,Summer,Tiger,83,76,Yes
+197,Bandhavgarh,C02-BTR21-46,C02-BTR21-046-SL01,SALIVA,Post predation,Summer,Tiger,14,14,No
+198,Bandhavgarh,C02-BTR21-46,C02-BTR21-046-SL02,SALIVA,Post predation,Summer,Tiger,5,4,No
+199,Bandhavgarh,C02-BTR21-46,C02-BTR21-046-SL03,SALIVA,Predation,Summer,Tiger,39,37,No
+200,Bandhavgarh,C02-BTR21-50,C02-BTR21-050-SH01,SHED HAIR,Post predation,Summer,Tiger,104,93,Yes
+201,Bandhavgarh,C02-BTR21-50,C02-BTR21-050-SH02,SHED HAIR,Post predation,Summer,Tiger,102,90,Yes
+202,Bandhavgarh,C02-BTR21-50,C02-BTR21-050-SL01,SALIVA,Predation,Summer,Tiger,24,23,No
+203,Bandhavgarh,C02-BTR21-50,C02-BTR21-050-SL02,SALIVA,Post predation,Summer,Tiger,6,6,No
+204,Bandhavgarh,C02-BTR21-54,C02-BTR21-054-SH01,SHED HAIR,Post predation,Summer,Tiger,67,63,Yes
+205,Bandhavgarh,C02-BTR21-54,C02-BTR21-054-SH02,SHED HAIR,Post predation,Summer,Tiger,48,45,Yes
+206,Bandhavgarh,C02-BTR21-54,C02-BTR21-054-SL01,SALIVA,Predation,Summer,Tiger,28,27,No
+207,Bandhavgarh,C02-BTR21-54,C02-BTR21-054-SL02,SALIVA,Post predation,Summer,Tiger,57,54,Yes
+208,Bandhavgarh,C02-BTR21-54,C02-BTR21-054-SL03,SALIVA,Post predation,Summer,Tiger,62,58,Yes
+209,Bandhavgarh,C02-BTR21-56,C02-BTR21-056-SH01,SHED HAIR,Post predation,Summer,Tiger,86,79,Yes
+210,Bandhavgarh,C02-BTR21-56,C02-BTR21-056-SL01,SALIVA,Predation,Summer,Tiger,64,60,Yes
+211,Bandhavgarh,C02-BTR21-56,C02-BTR21-056-SL02,SALIVA,Post predation,Summer,Tiger,67,63,Yes
+212,Bandhavgarh,C02-BTR21-57,C02-BTR21-057-SH01,SHED HAIR,Post predation,Summer,Tiger,2,2,No
+213,Bandhavgarh,C02-BTR21-57,C02-BTR21-057-SL01,SALIVA,Predation,Summer,Tiger,2,2,No
+214,Bandhavgarh,C02-BTR21-57,C02-BTR21-057-SL02,SALIVA,Predation,Summer,Tiger,6,6,No
+215,Bandhavgarh,C02-BTR21-59,C02-BTR21-059-SH01,SHED HAIR,Post predation,Summer,Tiger,93,85,Yes
+216,Bandhavgarh,C02-BTR21-59,C02-BTR21-059-SH02,SHED HAIR,Post predation,Summer,Tiger,85,79,Yes
+217,Bandhavgarh,C02-BTR21-59,C02-BTR21-059-SL01,SALIVA,Predation,Summer,Tiger,33,33,No
+218,Bandhavgarh,C02-BTR21-59,C02-BTR21-059-SL02,SALIVA,Post predation,Summer,Tiger,6,6,No
+219,Bandhavgarh,C02-BTR21-61,C02-BTR21-061-SH01,SHED HAIR,Predation,Summer,Tiger,68,64,Yes
+220,Bandhavgarh,C02-BTR21-61,C02-BTR21-061-SH02,SHED HAIR,Post predation,Summer,Tiger,7,7,No
+221,Bandhavgarh,C02-BTR21-61,C02-BTR21-061-SL01,SALIVA,Post predation,Summer,Tiger,8,8,No
+222,Bandhavgarh,C02-BTR21-62,C02-BTR21-062-SH01,SHED HAIR,Predation,Summer,Tiger,90,83,Yes
+223,Bandhavgarh,C02-BTR21-62,C02-BTR21-062-SH02,SHED HAIR,Post predation,Summer,Tiger,77,72,Yes
+224,Bandhavgarh,C02-BTR21-62,C02-BTR21-062-SH03,SHED HAIR,Post predation,Summer,Tiger,91,83,Yes
+225,Bandhavgarh,C02-BTR21-62,C02-BTR21-062-SL01,SALIVA,Predation,Summer,Tiger,6,6,No
+226,Bandhavgarh,C02-BTR21-62,C02-BTR21-062-SL02,SALIVA,Post predation,Summer,Tiger,6,6,No
+227,Bandhavgarh,C02-BTR21-64,C02-BTR21-064-SH01,SHED HAIR,Post predation,Summer,Tiger,9,9,No
+228,Bandhavgarh,C02-BTR21-64,C02-BTR21-064-SH02,SHED HAIR,Post predation,Summer,Tiger,110,92,Yes
+229,Bandhavgarh,C02-BTR21-64,C02-BTR21-064-SL01,SALIVA,Predation,Summer,Tiger,23,23,No
+230,Bandhavgarh,C02-BTR21-64,C02-BTR21-064-SL02,SALIVA,Post predation,Summer,Tiger,4,4,No
+231,Bandhavgarh,C02-BTR21-65,C02-BTR21-065-SH01,SHED HAIR,Post predation,Summer,Tiger,94,85,Yes
+232,Bandhavgarh,C02-BTR21-65,C02-BTR21-065-SL01,SALIVA,Predation,Summer,Tiger,4,4,No
+233,Bandhavgarh,C02-BTR21-65,C02-BTR21-065-SL02,SALIVA,Post predation,Summer,Tiger,36,34,No
+234,Bandhavgarh,C02-BTR21-74,C02-BTR21-074-SC01,SCAT,Post predation,Summer,Tiger,7,7,No
+235,Bandhavgarh,C02-BTR21-74,C02-BTR21-074-SC02-A,SCAT,Post predation,Summer,Tiger,22,21,No
+236,Bandhavgarh,C02-BTR21-74,C02-BTR21-074-SH01,SHED HAIR,Post predation,Summer,Tiger,70,66,Yes
+237,Bandhavgarh,C02-BTR21-74,C02-BTR21-074-SH02,SHED HAIR,Post predation,Summer,Tiger,37,34,No
+238,Bandhavgarh,C02-BTR21-74,C02-BTR21-074-SH03,SHED HAIR,Post predation,Summer,Tiger,92,84,Yes
+239,Bandhavgarh,C02-BTR21-78,C02-BTR21-078-SC01,SCAT,Post predation,Summer,NA,NA,NA,NA
+240,Bandhavgarh,C02-BTR21-78,C02-BTR21-078-SH01,SHED HAIR,Post predation,Summer,Tiger,103,92,Yes
+241,Bandhavgarh,C02-BTR21-78,C02-BTR21-078-SH02,SHED HAIR,Post predation,Summer,Tiger,7,7,No
+242,Bandhavgarh,C02-BTR21-78,C02-BTR21-078-SL02,SALIVA,Post predation,Summer,Tiger,52,49,Yes
+243,Bandhavgarh,C02-BTR21-94,C02-BTR21-094-SH01,SHED HAIR,Post predation,Summer,Tiger,99,89,Yes
+244,Bandhavgarh,C02-BTR21-94,C02-BTR21-094-SH02,SHED HAIR,Post predation,Summer,Tiger,78,72,Yes
+245,Bandhavgarh,C02-BTR21-94,C02-BTR21-094-SL01,SALIVA,Predation,Summer,Tiger,4,4,No
+246,Bandhavgarh,C02-BTR21-94,C02-BTR21-094-SL02,SALIVA,Post predation,Summer,Tiger,41,40,Yes
+247,Bandhavgarh,C02-BTR21-98,C02-BTR21-098-SH01,SHED HAIR,Predation,Summer,Tiger,97,88,Yes
+248,Bandhavgarh,C02-BTR21-98,C02-BTR21-098-SH02,SHED HAIR,Post predation,Summer,Tiger,102,91,Yes
+249,Bandhavgarh,C02-BTR21-98,C02-BTR21-098-SL01,SALIVA,Predation,Summer,Tiger,8,8,No
+250,Bandhavgarh,C02-BTR21-100,C02-BTR21-100-SH01,SHED HAIR,Post predation,Summer,Tiger,66,61,Yes
+251,Bandhavgarh,C02-BTR21-100,C02-BTR21-100-SL01,SALIVA,Predation,Summer,Tiger,10,9,No
+252,Bandhavgarh,C02-BTR21-100,C02-BTR21-100-SL02,SALIVA,Post predation,Summer,Tiger,7,7,No
+253,Bandhavgarh,C02-BTR21-102,C02-BTR21-102-SH01,SHED HAIR,Post predation,Summer,Tiger,83,77,Yes
+254,Bandhavgarh,C02-BTR21-102,C02-BTR21-102-SH02,SHED HAIR,Post predation,Summer,Tiger,38,36,No
+255,Bandhavgarh,C02-BTR21-102,C02-BTR21-102-SL01,SALIVA,Predation,Summer,Tiger,10,10,No
+256,Bandhavgarh,C02-BTR21-105,C02-BTR21-105-SC01,SCAT,Post predation,Summer,Tiger,33,30,No
+257,Bandhavgarh,C02-BTR21-105,C02-BTR21-105-SH01,SHED HAIR,Post predation,Summer,Tiger,75,71,Yes
+258,Bandhavgarh,C02-BTR21-105,C02-BTR21-105-SH02,SHED HAIR,Predation,Summer,Tiger,85,78,Yes
+259,Bandhavgarh,C02-BTR21-105,C02-BTR21-105-SL02,SALIVA,Post predation,Summer,Tiger,10,10,No
+260,Bandhavgarh,C02-BTR21-112,C02-BTR21-112-SH01,SHED HAIR,Predation,Summer,Tiger,70,64,Yes
+261,Bandhavgarh,C02-BTR21-112,C02-BTR21-112-SH02,SHED HAIR,Post predation,Summer,Tiger,0,0,No
+262,Bandhavgarh,C02-BTR21-112,C02-BTR21-112-SH03,SHED HAIR,Post predation,Summer,Tiger,8,8,No
+263,Bandhavgarh,C02-BTR21-112,C02-BTR21-112-SL01,SHED HAIR,Post predation,Summer,NA,NA,NA,NA
+264,Bandhavgarh,C02-BTR21-113,C02-BTR21-113-SH01,SHED HAIR,Post predation,Summer,Tiger,5,5,No
+265,Bandhavgarh,C02-BTR21-113,C02-BTR21-113-SH02,SHED HAIR,Predation,Summer,Tiger,79,74,Yes
+266,Bandhavgarh,C02-BTR21-113,C02-BTR21-113-SH03,SHED HAIR,Post predation,Summer,Tiger,0,0,No
+267,Bandhavgarh,C02-BTR21-118,C02-BTR21-118-SH01,SHED HAIR,Predation,Summer,Tiger,55,52,Yes
+268,Bandhavgarh,C02-BTR21-118,C02-BTR21-118-SH02,SHED HAIR,Post predation,Summer,Tiger,49,47,Yes
+269,Bandhavgarh,C02-BTR21-118,C02-BTR21-118-SH03,SHED HAIR,Post predation,Summer,Tiger,46,43,Yes
+270,Bandhavgarh,C02-BTR21-118,C02-BTR21-118-SL01,SALIVA,Predation,Summer,Tiger,73,69,Yes
+271,Bandhavgarh,C02-BTR21-118,C02-BTR21-118-SL02,SALIVA,Post predation,Summer,Tiger,6,6,No
+272,Bandhavgarh,C02-BTR21-127,C02-BTR21-127-SH01,SHED HAIR,Post predation,Summer,Tiger,56,52,Yes
+273,Bandhavgarh,C02-BTR21-127,C02-BTR21-127-SL01,SALIVA,Predation,Summer,Tiger,98,89,Yes
+274,Bandhavgarh,C02-BTR21-127,C02-BTR21-127-SL02,SALIVA,Predation,Summer,Tiger,98,89,Yes
+275,Bandhavgarh,C02-BTR21-142,C02-BTR21-142-SH01,SHED HAIR,Post predation,Summer,Tiger,9,9,No
+276,Bandhavgarh,C02-BTR21-142,C02-BTR21-142-SL01,SALIVA,Predation,Summer,Tiger,6,6,No
+277,Bandhavgarh,C02-BTR21-142,C02-BTR21-142-SL02,SALIVA,Post predation,Summer,Tiger,6,6,No
+278,Bandhavgarh,C02-BTR21-143,C02-BTR21-143-SH01,SHED HAIR,Post predation,Summer,Tiger,103,92,Yes
+279,Bandhavgarh,C02-BTR21-143,C02-BTR21-143-SH02,SHED HAIR,Post predation,Summer,Tiger,3,3,No
+280,Bandhavgarh,C02-BTR21-143,C02-BTR21-143-SL01,SALIVA,Predation,Summer,Tiger,19,18,No
+281,Bandhavgarh,C02-BTR21-143,C02-BTR21-143-SL02,SALIVA,Post predation,Summer,Tiger,5,5,No
+282,Bandhavgarh,C02-BTR21-143,C02-BTR21-143-SL03,SALIVA,Post predation,Summer,Tiger,50,47,Yes
+283,Bandhavgarh,C02-BTR21-146,C02-BTR21-146-SH01,SHED HAIR,Post predation,Summer,Tiger,84,77,Yes
+284,Bandhavgarh,C02-BTR21-146,C02-BTR21-146-SL01,SALIVA,Predation,Summer,Tiger,0,0,No
+285,Bandhavgarh,C02-BTR21-146,C02-BTR21-146-SL02,SALIVA,Predation,Summer,Tiger,7,7,No
+286,Bandhavgarh,C02-BTR21-146,C02-BTR21-146-SL03,SALIVA,Post predation,Summer,Tiger,19,19,No
+287,Bandhavgarh,C02-BTR21-154,C02-BTR21-154-SH01,SHED HAIR,Predation,Monsoon,Tiger,3,3,No
+288,Bandhavgarh,C02-BTR21-154,C02-BTR21-154-SH02,SHED HAIR,Post predation,Monsoon,Tiger,70,63,Yes
+289,Bandhavgarh,C02-BTR21-154,C02-BTR21-154-SH03,SHED HAIR,Post predation,Monsoon,Tiger,38,35,No
+290,Bandhavgarh,C02-BTR21-154,C02-BTR21-154-SL01,SALIVA,Post predation,Monsoon,Tiger,8,8,No
+291,Bandhavgarh,C02-BTR21-154,C02-BTR21-154-SL02,SALIVA,Post predation,Monsoon,Tiger,49,46,Yes
+292,Bandhavgarh,C02-BTR21-157,C02-BTR21-157-SH01,SHED HAIR,Predation,Monsoon,Tiger,3,3,No
+293,Bandhavgarh,C02-BTR21-157,C02-BTR21-157-SH02,SHED HAIR,Post predation,Monsoon,Tiger,60,55,Yes
+294,Bandhavgarh,C02-BTR21-157,C02-BTR21-157-SL01,SALIVA,Post predation,Monsoon,Tiger,0,0,No
+295,Bandhavgarh,C02-BTR21-162,C02-BTR21-162-SH01,SHED HAIR,Post predation,Monsoon,Tiger,4,4,No
+296,Bandhavgarh,C02-BTR21-164,C02-BTR21-164-SH01,SHED HAIR,Post predation,Monsoon,Tiger,7,7,No
+297,Bandhavgarh,C02-BTR21-170,C02-BTR21-170-SH01,SHED HAIR,Post predation,Monsoon,Tiger,26,25,No
+298,Bandhavgarh,C02-BTR21-172,C02-BTR21-172-SH01,SHED HAIR,Post predation,Monsoon,Tiger,90,84,Yes
+299,Bandhavgarh,C02-BTR21-175,C02-BTR21-175-SH01,SHED HAIR,Post predation,Monsoon,Tiger,85,80,Yes
+300,Bandhavgarh,C02-BTR21-175,C02-BTR21-175-SH02,SHED HAIR,Post predation,Monsoon,Tiger,46,43,Yes
+301,Bandhavgarh,C02-BTR21-179,C02-BTR21-179-SH01,SHED HAIR,Predation,Monsoon,Tiger,0,0,No
+302,Bandhavgarh,C02-BTR21-180,C02-BTR21-180-SH01,SHED HAIR,Predation,Monsoon,Tiger,53,50,Yes
+303,Bandhavgarh,C02-BTR21-180,C02-BTR21-180-SH02,SHED HAIR,Post predation,Monsoon,Tiger,6,6,No
+304,Bandhavgarh,C02-BTR21-180,C02-BTR21-180-SH03,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+305,Bandhavgarh,C02-BTR21-184,C02-BTR21-184-SH01,SHED HAIR,Post predation,Monsoon,Tiger,6,6,No
+306,Bandhavgarh,C02-BTR21-184,C02-BTR21-184-SH02,SHED HAIR,Post predation,Monsoon,Tiger,3,3,No
+307,Bandhavgarh,C02-BTR21-184,C02-BTR21-184-SH03,SHED HAIR,Post predation,Monsoon,Tiger,5,5,No
+308,Bandhavgarh,C02-BTR21-191,C02-BTR21-191-SH01,SHED HAIR,Predation,Monsoon,Tiger,80,71,Yes
+309,Bandhavgarh,C02-BTR21-200,C02-BTR21-200-SH01,SHED HAIR,Post predation,Monsoon,Tiger,7,7,No
+310,Bandhavgarh,C02-BTR21-200,C02-BTR21-200-SH02,SHED HAIR,Post predation,Monsoon,Tiger,22,21,No
+311,Bandhavgarh,C02-BTR21-200,C02-BTR21-200-SH03,SHED HAIR,Post predation,Monsoon,Tiger,69,64,Yes
+312,Bandhavgarh,C02-BTR21-200,C02-BTR21-200-SL01,SALIVA,Predation,Monsoon,Tiger,17,17,No
+313,Bandhavgarh,C02-BTR21-200,C02-BTR21-200-SL02,SALIVA,Post predation,Monsoon,Tiger,5,5,No
+314,Bandhavgarh,C02-BTR21-200,C02-BTR21-200-SL03,SALIVA,Post predation,Monsoon,Tiger,8,8,No
+315,Bandhavgarh,C02-BTR21-203,C02-BTR21-203-SH01,SHED HAIR,Post predation,Monsoon,Tiger,60,56,Yes
+316,Bandhavgarh,C02-BTR21-203,C02-BTR21-203-SL01,SALIVA,Predation,Monsoon,Tiger,2,2,No
+317,Bandhavgarh,C02-BTR21-209,C02-BTR21-209-SH01,SHED HAIR,Predation,Monsoon,Tiger,4,4,No
+318,Bandhavgarh,C02-BTR21-209,C02-BTR21-209-SH02,SHED HAIR,Post predation,Monsoon,Tiger,49,46,Yes
+319,Bandhavgarh,C02-BTR21-209,C02-BTR21-209-SH03,SHED HAIR,Post predation,Monsoon,Tiger,60,56,Yes
+320,Bandhavgarh,C02-BTR21-209,C02-BTR21-209-SH04,SHED HAIR,Post predation,Monsoon,Tiger,7,7,No
+321,Bandhavgarh,C02-BTR21-209,C02-BTR21-209-SL01,SALIVA,Predation,Monsoon,Tiger,2,2,No
+322,Bandhavgarh,C02-BTR21-209,C02-BTR21-209-SL02,SALIVA,Post predation,Monsoon,Tiger,33,32,No
+323,Bandhavgarh,C02-BTR21-209,C02-BTR21-209-SL03,SALIVA,Post predation,Monsoon,Tiger,9,9,No
+324,Bandhavgarh,C02-BTR21-211,C02-BTR21-211-SH01,SHED HAIR,Predation,Monsoon,Tiger,0,0,No
+325,Bandhavgarh,C02-BTR21-211,C02-BTR21-211-SH02,SHED HAIR,Post predation,Monsoon,Tiger,58,54,Yes
+326,Bandhavgarh,C02-BTR21-211,C02-BTR21-211-SH03,SHED HAIR,Post predation,Monsoon,Tiger,97,87,Yes
+327,Bandhavgarh,C02-BTR21-218,C02-BTR21-218-SH01,SHED HAIR,Predation,Monsoon,Tiger,65,62,Yes
+328,Bandhavgarh,C02-BTR21-218,C02-BTR21-218-SH02,SHED HAIR,Post predation,Monsoon,Tiger,67,65,Yes
+329,Bandhavgarh,C02-BTR21-218,C02-BTR21-218-SH03,SHED HAIR,Post predation,Monsoon,Tiger,51,49,Yes
+330,Bandhavgarh,C02-BTR21-224,C02-BTR21-224-SH01,SHED HAIR,Predation,Monsoon,Tiger,47,43,Yes
+331,Bandhavgarh,C02-BTR21-224,C02-BTR21-224-SH02,SHED HAIR,Post predation,Monsoon,Tiger,3,3,No
+332,Bandhavgarh,C02-BTR21-224,C02-BTR21-224-SH03,SHED HAIR,Post predation,Monsoon,Tiger,3,3,No
+333,Bandhavgarh,C02-BTR21-227,C02-BTR21-227-SH01,SHED HAIR,Predation,Monsoon,Tiger,2,2,No
+334,Bandhavgarh,C02-BTR21-227,C02-BTR21-227-SH02,SHED HAIR,Post predation,Monsoon,Tiger,5,5,No
+335,Bandhavgarh,C02-BTR21-227,C02-BTR21-227-SL01,SALIVA,Post predation,Monsoon,Tiger,4,4,No
+336,Bandhavgarh,C02-BTR21-228,C02-BTR21-228-SC01,SCAT,Post predation,Monsoon,Tiger,0,0,No
+337,Bandhavgarh,C02-BTR21-228,C02-BTR21-228-SC02,SCAT,Post predation,Monsoon,Tiger,62,59,Yes
+338,Bandhavgarh,C02-BTR21-228,C02-BTR21-228-SH01,SHED HAIR,Predation,Monsoon,Tiger,20,18,No
+339,Bandhavgarh,C02-BTR21-228,C02-BTR21-228-SH02,SHED HAIR,Post predation,Monsoon,Tiger,59,55,Yes
+340,Bandhavgarh,C02-BTR21-228,C02-BTR21-228-SH03,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+341,Bandhavgarh,C02-BTR21-228,C02-BTR21-228-SL01,SALIVA,Post predation,Monsoon,Tiger,8,8,No
+342,Bandhavgarh,C02-BTR21-234,C02-BTR21-234-SH01,SHED HAIR,Predation,Monsoon,Tiger,78,71,Yes
+343,Bandhavgarh,C02-BTR21-234,C02-BTR21-234-SH02,SHED HAIR,Post predation,Monsoon,Tiger,71,64,Yes
+344,Bandhavgarh,C02-BTR21-234,C02-BTR21-234-SH03,SHED HAIR,Post predation,Monsoon,Tiger,73,68,Yes
+345,Bandhavgarh,C02-BTR21-236,C02-BTR21-236-SH01,SHED HAIR,Predation,Monsoon,Tiger,0,0,No
+346,Bandhavgarh,C02-BTR21-236,C02-BTR21-236-SH02,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+347,Bandhavgarh,C02-BTR21-236,C02-BTR21-236-SH03,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+348,Bandhavgarh,C02-BTR21-237,C02-BTR21-237-SH01,SHED HAIR,Post predation,Monsoon,Tiger,64,60,Yes
+349,Bandhavgarh,C02-BTR21-237,C02-BTR21-237-SH02,SHED HAIR,Post predation,Monsoon,Tiger,59,55,Yes
+350,Bandhavgarh,C02-BTR21-237,C02-BTR21-237-SH03,SHED HAIR,Post predation,Monsoon,Tiger,66,61,Yes
+351,Bandhavgarh,C02-BTR21-237,C02-BTR21-237-SL01,SALIVA,Predation,Monsoon,Tiger,3,3,No
+352,Bandhavgarh,C02-BTR21-237,C02-BTR21-237-SL02,SALIVA,Post predation,Monsoon,Tiger,5,5,No
+353,Bandhavgarh,C02-BTR21-242,C02-BTR21-242-SH01,SHED HAIR,Predation,Winter,Tiger,49,47,Yes
+354,Bandhavgarh,C02-BTR21-242,C02-BTR21-242-SH02,SHED HAIR,Predation,Winter,Tiger,44,43,Yes
+355,Bandhavgarh,C02-BTR21-242,C02-BTR21-242-SL01,SALIVA,Predation,Winter,Tiger,6,6,No
+356,Bandhavgarh,C02-BTR21-242,C02-BTR21-242-SL02,SALIVA,Predation,Winter,Tiger,1,1,No
+357,Bandhavgarh,C02-BTR21-242,C02-BTR21-242-SL03,SALIVA,Post predation,Winter,Tiger,5,5,No
+358,Bandhavgarh,C02-BTR21-242,C02-BTR21-242-SL04,SALIVA,Post predation,Winter,Tiger,5,5,No
+359,Bandhavgarh,C02-BTR21-243,C02-BTR21-243-SH01,SHED HAIR,Post predation,Winter,Tiger,62,59,Yes
+360,Bandhavgarh,C02-BTR21-243,C02-BTR21-243-SH02,SHED HAIR,Post predation,Winter,Tiger,84,76,Yes
+361,Bandhavgarh,C02-BTR21-243,C02-BTR21-243-SL01,SALIVA,Predation,Winter,Tiger,6,6,No
+362,Bandhavgarh,C02-BTR21-243,C02-BTR21-243-SL02,SALIVA,Post predation,Winter,Tiger,6,6,No
+363,Bandhavgarh,C02-BTR21-243,C02-BTR21-243-SL03,SALIVA,Post predation,Winter,Tiger,96,85,Yes
+364,Bandhavgarh,C02-BTR21-249,C02-BTR21-249-SH01,SHED HAIR,Post predation,Winter,Tiger,49,47,Yes
+365,Bandhavgarh,C02-BTR21-249,C02-BTR21-249-SL01,SALIVA,Predation,Winter,Tiger,3,3,No
+366,Bandhavgarh,C02-BTR21-249,C02-BTR21-249-SL02,SALIVA,Predation,Winter,Tiger,5,5,No
+367,Bandhavgarh,C02-BTR21-249,C02-BTR21-249-SL03,SALIVA,Post predation,Winter,Tiger,4,4,No
+368,Bandhavgarh,C02-BTR21-252,C02-BTR21-252-SH01,SHED HAIR,Post predation,Winter,Tiger,55,52,Yes
+369,Bandhavgarh,C02-BTR21-252,C02-BTR21-252-SH02,SHED HAIR,Post predation,Winter,Tiger,2,2,No
+370,Bandhavgarh,C02-BTR21-252,C02-BTR21-252-SH03,SHED HAIR,Post predation,Winter,Tiger,49,46,Yes
+371,Bandhavgarh,C02-BTR21-252,C02-BTR21-252-SL01,SALIVA,Predation,Winter,Tiger,29,28,No
+372,Bandhavgarh,C02-BTR21-252,C02-BTR21-252-SL02,SALIVA,Post predation,Winter,Tiger,25,25,No
+373,Bandhavgarh,C02-BTR21-252,C02-BTR21-252-SL03,SALIVA,Post predation,Winter,Tiger,8,8,No
+374,Bandhavgarh,C02-BTR21-255,C02-BTR21-255-SH01,SHED HAIR,Predation,Winter,Tiger,46,44,Yes
+375,Bandhavgarh,C02-BTR21-255,C02-BTR21-255-SH02,SHED HAIR,Post predation,Winter,Tiger,88,80,Yes
+376,Bandhavgarh,C02-BTR21-255,C02-BTR21-255-SH03,SHED HAIR,Post predation,Winter,Tiger,91,83,Yes
+377,Bandhavgarh,C02-BTR21-255,C02-BTR21-255-SL01,SALIVA,Post predation,Winter,Tiger,3,3,No
+378,Bandhavgarh,C02-BTR21-255,C02-BTR21-255-SL02,SALIVA,Post predation,Winter,Tiger,26,25,No
+379,Bandhavgarh,C02-BTR21-257,C02-BTR21-257-SH01,SHED HAIR,Predation,Winter,Tiger,106,92,Yes
+380,Bandhavgarh,C02-BTR21-257,C02-BTR21-257-SH02,SHED HAIR,Post predation,Winter,Tiger,60,55,Yes
+381,Bandhavgarh,C02-BTR21-257,C02-BTR21-257-SH03,SHED HAIR,Post predation,Winter,Tiger,97,88,Yes
+382,Bandhavgarh,C02-BTR21-258,C02-BTR21-258-SH01,SHED HAIR,Predation,Winter,Tiger,96,86,Yes
+383,Bandhavgarh,C02-BTR21-258,C02-BTR21-258-SL01,SALIVA,Predation,Winter,Tiger,5,5,No
+384,Bandhavgarh,C02-BTR21-258,C02-BTR21-258-SL02,SALIVA,Post predation,Winter,Tiger,4,4,No
+385,Bandhavgarh,C02-BTR21-258,C02-BTR21-258-SL03,SALIVA,Post predation,Winter,Tiger,0,0,No
+386,Bandhavgarh,C02-BTR21-260,C02-BTR21-260-SH01,SHED HAIR,Predation,Winter,Tiger,98,89,Yes
+387,Bandhavgarh,C02-BTR21-260,C02-BTR21-260-SH02,SHED HAIR,Post predation,Winter,Tiger,105,92,Yes
+388,Bandhavgarh,C02-BTR21-260,C02-BTR21-260-SH03,SHED HAIR,Post predation,Winter,Tiger,73,68,Yes
+389,Bandhavgarh,C02-BTR21-260,C02-BTR21-260-SH04,SHED HAIR,Post predation,Winter,Tiger,40,39,Yes
+390,Bandhavgarh,C02-BTR21-260,C02-BTR21-260-SL01,SALIVA,Post predation,Winter,Tiger,3,3,No
+391,Bandhavgarh,C02-BTR21-260,C02-BTR21-260-SL02,SALIVA,Post predation,Winter,Tiger,4,4,No
+392,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SH01,SHED HAIR,Predation,Winter,Tiger,96,88,Yes
+393,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SH02,SHED HAIR,Post predation,Winter,Tiger,104,92,Yes
+394,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SH03,SHED HAIR,Post predation,Winter,Tiger,18,17,No
+395,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SL01,SALIVA,Predation,Winter,Tiger,53,52,Yes
+396,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SL02,SALIVA,Post predation,Winter,Tiger,5,5,No
+397,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SL03,SALIVA,Post predation,Winter,Tiger,31,30,No
+398,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SL04,SALIVA,Post predation,Winter,Tiger,52,50,Yes
+399,Bandhavgarh,C02-BTR21-263,C02-BTR21-263-SL05,SALIVA,Post predation,Winter,Tiger,50,49,Yes
+400,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SH01,SHED HAIR,Predation,Winter,Tiger,105,93,Yes
+401,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SH02,SHED HAIR,Post predation,Winter,Tiger,109,92,Yes
+402,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SH03,SHED HAIR,Post predation,Winter,Tiger,103,92,Yes
+403,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SH04,SHED HAIR,Post predation,Winter,Tiger,89,81,Yes
+404,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SL01,SALIVA,Post predation,Winter,Tiger,54,53,Yes
+405,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SL02,SALIVA,Post predation,Winter,Tiger,38,37,No
+406,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SL03,SALIVA,Post predation,Winter,Tiger,93,84,Yes
+407,Bandhavgarh,C02-BTR21-265,C02-BTR21-265-SL04,SALIVA,Post predation,Winter,Tiger,40,39,No
+408,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SH01,SHED HAIR,Predation,Winter,Tiger,72,67,Yes
+409,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SH02,SHED HAIR,Post predation,Winter,Tiger,73,69,Yes
+410,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SH03,SHED HAIR,Post predation,Winter,Tiger,39,38,No
+411,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SL01,SALIVA,Post predation,Winter,Tiger,47,46,Yes
+412,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SL02,SALIVA,Post predation,Winter,Tiger,59,57,Yes
+413,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SL03,SALIVA,Post predation,Winter,Tiger,72,70,Yes
+414,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SL04,SALIVA,Post predation,Winter,Tiger,44,43,Yes
+415,Bandhavgarh,C02-BTR21-271,C02-BTR21-271-SL05,SALIVA,Post predation,Winter,Tiger,67,63,Yes
+416,Bandhavgarh,C02-BTR21-272,C02-BTR21-272-SH01,SHED HAIR,Post predation,Winter,Tiger,94,87,Yes
+417,Bandhavgarh,C02-BTR21-272,C02-BTR21-272-SH02,SHED HAIR,Post predation,Winter,Tiger,94,86,Yes
+418,Bandhavgarh,C02-BTR21-272,C02-BTR21-272-SH03,SHED HAIR,Post predation,Winter,Tiger,101,92,Yes
+419,Bandhavgarh,C02-BTR21-272,C02-BTR21-272-SL01,SALIVA,Predation,Winter,Tiger,4,4,No
+420,Bandhavgarh,C02-BTR21-272,C02-BTR21-272-SL02,SALIVA,Post predation,Winter,Tiger,90,82,Yes
+421,Bandhavgarh,C02-BTR21-272,C02-BTR21-272-SL03,SALIVA,Post predation,Winter,Tiger,70,66,Yes
+422,Bandhavgarh,C02-BTR21-277,C02-BTR21-277-SH01,SHED HAIR,Predation,Winter,Tiger,112,93,Yes
+423,Bandhavgarh,C02-BTR21-277,C02-BTR21-277-SH02,SHED HAIR,Post predation,Winter,Tiger,103,91,Yes
+424,Bandhavgarh,C02-BTR21-277,C02-BTR21-277-SH03,SHED HAIR,Post predation,Winter,Tiger,83,76,Yes
+425,Bandhavgarh,C02-BTR21-277,C02-BTR21-277-SH04,SHED HAIR,Post predation,Winter,Tiger,80,74,Yes
+426,Bandhavgarh,C02-BTR21-277,C02-BTR21-277-SL01,SALIVA,Post predation,Winter,Tiger,75,70,Yes
+427,Bandhavgarh,C02-BTR21-277,C02-BTR21-277-SL02,SALIVA,Post predation,Winter,Tiger,69,66,Yes
+428,Bandhavgarh,C02-BTR21-277,C02-BTR21-277-SL03,SALIVA,Post predation,Winter,Tiger,45,44,Yes
+429,Bandhavgarh,C02-BTR21-278,C02-BTR21-278-SH01,SHED HAIR,Predation,Winter,Tiger,69,64,Yes
+430,Bandhavgarh,C02-BTR21-278,C02-BTR21-278-SL01,SALIVA,Predation,Winter,Tiger,0,0,No
+431,Bandhavgarh,C02-BTR21-278,C02-BTR21-278-SL02,SALIVA,Post predation,Winter,Tiger,0,0,No
+432,Bandhavgarh,C02-BTR21-283,C02-BTR21-283-SH01,SHED HAIR,Predation,Winter,Tiger,106,93,Yes
+433,Bandhavgarh,C02-BTR21-283,C02-BTR21-283-SH02,SHED HAIR,Post predation,Winter,Tiger,99,89,Yes
+434,Bandhavgarh,C02-BTR21-283,C02-BTR21-283-SH03,SHED HAIR,Post predation,Winter,Tiger,109,93,Yes
+435,Bandhavgarh,C02-BTR21-283,C02-BTR21-283-SH04,SHED HAIR,Post predation,Winter,Tiger,109,93,Yes
+436,Bandhavgarh,C02-BTR21-283,C02-BTR21-283-SL01,SALIVA,Post predation,Winter,Tiger,57,55,Yes
+437,Bandhavgarh,C02-BTR21-283,C02-BTR21-283-SL02,SALIVA,Post predation,Winter,Tiger,67,64,Yes
+438,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SC01-A-B,SCAT,Post predation,Winter,Tiger,1,1,No
+439,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SH01-A-B,SHED HAIR,Post predation,Winter,Tiger,102,91,Yes
+440,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SH02,SHED HAIR,Post predation,Winter,Tiger,100,91,Yes
+441,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SH03,SHED HAIR,Post predation,Winter,Tiger,68,63,Yes
+442,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SH04,SHED HAIR,Post predation,Winter,Tiger,81,76,Yes
+443,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SH05,SHED HAIR,Post predation,Winter,Tiger,97,89,Yes
+444,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SH06,SHED HAIR,Post predation,Winter,Tiger,98,89,Yes
+445,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SH07,SHED HAIR,Post predation,Winter,Tiger,1,1,No
+446,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SL01,SALIVA,Post predation,Winter,Tiger,52,50,Yes
+447,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SL02,SALIVA,Post predation,Winter,Tiger,85,80,Yes
+448,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SL03,SALIVA,Post predation,Winter,Tiger,90,82,Yes
+449,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SL04,SALIVA,Predation,Winter,Tiger,3,3,No
+450,Bandhavgarh,C02-BTR21-290,C02-BTR21-290-SL05,SALIVA,Post predation,Winter,Tiger,90,83,Yes
+451,Bandhavgarh,C02-BTR21-299,C02-BTR21-299-SC01-A-B,SCAT,Post predation,Winter,Tiger,64,61,Yes
+452,Bandhavgarh,C02-BTR21-299,C02-BTR21-299-SH01,SHED HAIR,Predation,Winter,Tiger,78,73,Yes
+453,Bandhavgarh,C02-BTR21-299,C02-BTR21-299-SL01,SALIVA,Post predation,Winter,Tiger,4,4,No
+454,Bandhavgarh,C02-BTR21-300,C02-BTR21-300-SH01,SHED HAIR,Predation,Winter,Tiger,72,67,Yes
+455,Bandhavgarh,C02-BTR21-300,C02-BTR21-300-SH02,SHED HAIR,Post predation,Winter,Tiger,79,71,Yes
+456,Bandhavgarh,C02-BTR21-300,C02-BTR21-300-SH03,SHED HAIR,Post predation,Winter,Tiger,67,62,Yes
+457,Bandhavgarh,C02-BTR21-300,C02-BTR21-300-SL01,SALIVA,Post predation,Winter,Tiger,31,29,No
+458,Bandhavgarh,C02-BTR21-300,C02-BTR21-300-SL02,SALIVA,Post predation,Winter,Tiger,38,35,No
+459,Bandhavgarh,C02-BTR21-303,C02-BTR21-303-SH01,SHED HAIR,Predation,Winter,Tiger,86,79,Yes
+460,Bandhavgarh,C02-BTR21-303,C02-BTR21-303-SH02,SHED HAIR,Post predation,Winter,Tiger,90,79,Yes
+461,Bandhavgarh,C02-BTR21-303,C02-BTR21-303-SH03,SHED HAIR,Post predation,Winter,Tiger,11,11,No
+462,Bandhavgarh,C02-BTR21-304,C02-BTR21-304-SH01,SHED HAIR,Predation,Winter,Tiger,83,77,Yes
+463,Bandhavgarh,C02-BTR21-304,C02-BTR21-304-SH02,SHED HAIR,Post predation,Winter,Tiger,65,61,Yes
+464,Bandhavgarh,C02-BTR21-304,C02-BTR21-304-SH03,SHED HAIR,Post predation,Winter,Tiger,101,91,Yes
+465,Bandhavgarh,C02-BTR21-304,C02-BTR21-304-SH04,SHED HAIR,Post predation,Winter,Tiger,96,87,Yes
+466,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SC01-A-B,SCAT,Post predation,Winter,Tiger,2,2,No
+467,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH01,SHED HAIR,Post predation,Winter,Tiger,38,36,No
+468,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH010,SHED HAIR,Post predation,Winter,Tiger,4,4,No
+469,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH02,SHED HAIR,Post predation,Winter,Tiger,97,87,Yes
+470,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH03,SHED HAIR,Post predation,Winter,Tiger,73,67,Yes
+471,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH04,SHED HAIR,Post predation,Winter,Tiger,101,92,Yes
+472,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH06-A-B,SHED HAIR,Post predation,Winter,Tiger,7,6,No
+473,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH07-A-B,SHED HAIR,Post predation,Winter,Tiger,45,43,Yes
+474,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH08,SHED HAIR,Post predation,Winter,Tiger,6,6,No
+475,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SH09,SHED HAIR,Post predation,Winter,Tiger,38,37,Yes
+476,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SL01,SALIVA,Post predation,Winter,Tiger,98,85,No
+477,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SL02,SALIVA,Post predation,Winter,Tiger,59,57,Yes
+478,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SL03,SALIVA,Post predation,Winter,Tiger,71,67,Yes
+479,Bandhavgarh,C02-BTR21-308,C02-BTR21-308-SL04,SALIVA,Predation,Winter,Tiger,0,0,No
+480,Bandhavgarh,C02-BTR21-309,C02-BTR21-309-SH01,SHED HAIR,Post predation,Winter,Tiger,89,81,Yes
+481,Bandhavgarh,C02-BTR21-309,C02-BTR21-309-SH02,SHED HAIR,Post predation,Winter,Tiger,94,83,Yes
+482,Bandhavgarh,C02-BTR21-309,C02-BTR21-309-SL01,SALIVA,Post predation,Winter,Tiger,83,77,Yes
+483,Bandhavgarh,C02-BTR21-309,C02-BTR21-309-SL02,SALIVA,Post predation,Winter,Tiger,79,74,Yes
+484,Bandhavgarh,C02-BTR21-309,C02-BTR21-309-SL03,SALIVA,Predation,Winter,Tiger,76,70,Yes
+485,Bandhavgarh,C02-BTR21-315,C02-BTR21-315-SC01-A-B,SCAT,Post predation,Winter,Tiger,62,58,Yes
+486,Bandhavgarh,C02-BTR21-315,C02-BTR21-315-SH01,SHED HAIR,Predation,Winter,Tiger,82,76,Yes
+487,Bandhavgarh,C02-BTR21-315,C02-BTR21-315-SH02,SHED HAIR,Predation,Winter,Tiger,93,82,Yes
+488,Bandhavgarh,C02-BTR21-315,C02-BTR21-315-SH03,SHED HAIR,Post predation,Winter,Tiger,86,78,Yes
+489,Bandhavgarh,C02-BTR21-315,C02-BTR21-315-SL01,SALIVA,Post predation,Winter,Tiger,107,93,Yes
+490,Bandhavgarh,C02-BTR21-315,C02-BTR21-315-SL02,SALIVA,Post predation,Winter,Tiger,74,70,Yes
+491,Bandhavgarh,C02-BTR21-317,C02-BTR21-317-SH01,SHED HAIR,Predation,Winter,Tiger,85,78,Yes
+492,Bandhavgarh,C02-BTR21-317,C02-BTR21-317-SH02,SHED HAIR,Post predation,Winter,Tiger,33,31,No
+493,Bandhavgarh,C02-BTR21-317,C02-BTR21-317-SH03,SHED HAIR,Post predation,Winter,Tiger,102,90,Yes
+494,Bandhavgarh,C02-BTR21-317,C02-BTR21-317-SH07-A-B,SHED HAIR,Post predation,Winter,Tiger,70,63,Yes
+495,Bandhavgarh,C02-BTR21-317,C02-BTR21-317-SL01,SALIVA,Predation,Winter,Tiger,44,42,Yes
+496,Bandhavgarh,C02-BTR21-317,C02-BTR21-317-SL02,SALIVA,Post predation,Winter,Tiger,10,9,No
+497,Bandhavgarh,C02-BTR21-317,C02-BTR21-317-SL03,SALIVA,Post predation,Winter,Tiger,72,67,Yes
+498,Bandhavgarh,C02-BTR21-318,C02-BTR21-318-SH01,SHED HAIR,Post predation,Winter,Tiger,103,89,Yes
+499,Bandhavgarh,C02-BTR21-318,C02-BTR21-318-SH02,SHED HAIR,Post predation,Winter,Tiger,100,91,Yes
+500,Bandhavgarh,C02-BTR21-318,C02-BTR21-318-SH03,SHED HAIR,Post predation,Winter,Tiger,88,80,Yes
+501,Bandhavgarh,C02-BTR21-318,C02-BTR21-318-SL01,SALIVA,Predation,Winter,Tiger,7,7,No
+502,Bandhavgarh,C02-BTR21-318,C02-BTR21-318-SL02,SALIVA,Post predation,Winter,Tiger,45,44,Yes
+503,Bandhavgarh,C02-BTR21-318,C02-BTR21-318-SL03,SALIVA,Post predation,Winter,Tiger,54,52,Yes
+504,Bandhavgarh,C02-BTR21-322,C02-BTR21-322-SH01,SHED HAIR,Predation,Winter,Tiger,40,38,No
+505,Bandhavgarh,C02-BTR21-322,C02-BTR21-322-SH02,SHED HAIR,Post predation,Winter,Tiger,56,52,Yes
+506,Bandhavgarh,C02-BTR21-322,C02-BTR21-322-SH03,SHED HAIR,Post predation,Winter,Tiger,44,42,Yes
+507,Bandhavgarh,C02-BTR21-322,C02-BTR21-322-SH04,SHED HAIR,Post predation,Winter,Tiger,52,48,Yes
+508,Bandhavgarh,C02-BTR21-322,C02-BTR21-322-SL01,SALIVA,Post predation,Winter,Tiger,9,9,No
+509,Bandhavgarh,C02-BTR21-322,C02-BTR21-322-SL02,SALIVA,Post predation,Winter,Tiger,16,16,No
+510,Bandhavgarh,C02-BTR21-328,C02-BTR21-328-SH01,SHED HAIR,Predation,Winter,Tiger,57,55,Yes
+511,Bandhavgarh,C02-BTR21-328,C02-BTR21-328-SH02,SHED HAIR,Post predation,Winter,Tiger,40,38,No
+512,Bandhavgarh,C02-BTR21-328,C02-BTR21-328-SH03,SHED HAIR,Post predation,Winter,Tiger,73,67,Yes
+513,Bandhavgarh,C02-BTR21-328,C02-BTR21-328-SL01,SALIVA,Predation,Winter,Tiger,7,7,No
+514,Bandhavgarh,C02-BTR21-328,C02-BTR21-328-SL02,SALIVA,Post predation,Winter,Tiger,5,5,No
+515,Bandhavgarh,C02-BTR21-337,C02-BTR22-337-SH01,SHED HAIR,Post predation,Winter,Tiger,101,89,Yes
+516,Bandhavgarh,C02-BTR21-337,C02-BTR22-337-SH02,SHED HAIR,Post predation,Winter,Tiger,83,76,Yes
+517,Bandhavgarh,C02-BTR21-337,C02-BTR22-337-SH03,SHED HAIR,Post predation,Winter,Tiger,51,49,Yes
+518,Bandhavgarh,C02-BTR21-337,C02-BTR22-337-SL01,SALIVA,Predation,Winter,Tiger,10,10,No
+519,Bandhavgarh,C02-BTR21-337,C02-BTR22-337-SL02,SALIVA,Post predation,Winter,Tiger,42,41,Yes
+520,Bandhavgarh,C02-BTR21-337,C02-BTR22-337-SL03,SALIVA,Post predation,Winter,Tiger,49,48,Yes
+521,Bandhavgarh,C02-BTR21-339,C02-BTR22-339-SH01,SHED HAIR,Predation,Winter,Tiger,20,19,No
+522,Bandhavgarh,C02-BTR21-339,C02-BTR22-339-SL01,SALIVA,Predation,Winter,Tiger,48,47,Yes
+523,Bandhavgarh,C02-BTR21-339,C02-BTR22-339-SL02,SALIVA,Post predation,Winter,Tiger,13,13,No
+524,Bandhavgarh,C02-BTR21-339,C02-BTR22-339-SL03,SALIVA,Post predation,Winter,NA,NA,NA,NA
+525,Bandhavgarh,C02-BTR21-340,C02-BTR22-340-SH01,SHED HAIR,Predation,Winter,Tiger,69,66,Yes
+526,Bandhavgarh,C02-BTR21-340,C02-BTR22-340-SH02,SHED HAIR,Post predation,Winter,Tiger,58,54,Yes
+527,Bandhavgarh,C02-BTR21-340,C02-BTR22-340-SH03,SHED HAIR,Post predation,Winter,Tiger,46,44,Yes
+528,Bandhavgarh,C02-BTR21-340,C02-BTR22-340-SL01,SALIVA,Predation,Winter,Tiger,26,26,No
+529,Bandhavgarh,C02-BTR21-340,C02-BTR22-340-SL02,SALIVA,Post predation,Winter,Tiger,7,7,No
+530,Bandhavgarh,C04-BTR21-035,C04-BTR21-035-SH01,SHED HAIR,Post predation,Summer,Tiger,41,39,Yes
+531,Bandhavgarh,C04-BTR21-035,C04-BTR21-035-SH02,SHED HAIR,Predation,Summer,Tiger,7,7,No
+532,Bandhavgarh,C04-BTR21-035,C04-BTR21-035-SL01,SALIVA,Predation,Summer,Tiger,10,9,No
+533,Bandhavgarh,C04-BTR21-035,C04-BTR21-035-SL02,SALIVA,Post predation,Summer,Tiger,5,5,No
+534,Bandhavgarh,C04-BTR21-038,C04-BTR21-038-SH01,SHED HAIR,Predation,Summer,Tiger,6,6,No
+535,Bandhavgarh,C04-BTR21-038,C04-BTR21-038-SH02,SHED HAIR,Post predation,Summer,Tiger,104,92,Yes
+536,Bandhavgarh,C04-BTR21-038,C04-BTR21-038-SH03,SHED HAIR,Post predation,Summer,Tiger,71,67,Yes
+537,Bandhavgarh,C04-BTR21-038,C04-BTR21-038-SH04,SHED HAIR,Post predation,Summer,Tiger,97,87,Yes
+538,Bandhavgarh,C04-BTR21-038,C04-BTR21-038-SH05,SHED HAIR,Post predation,Summer,Tiger,107,92,Yes
+539,Bandhavgarh,C04-BTR21-038,C04-BTR21-038-SH06,SHED HAIR,Post predation,Summer,Tiger,7,7,No
+540,Bandhavgarh,C04-BTR21-040,C04-BTR21-040-SH01,SHED HAIR,Post predation,Summer,Tiger,100,90,Yes
+541,Bandhavgarh,C04-BTR21-040,C04-BTR21-040-SH02,SHED HAIR,Post predation,Summer,Tiger,83,76,Yes
+542,Bandhavgarh,C04-BTR21-040,C04-BTR21-040-SH03,SHED HAIR,Post predation,Summer,Tiger,92,84,Yes
+543,Bandhavgarh,C04-BTR21-040,C04-BTR21-040-SL01,SALIVA,Predation,Summer,Tiger,8,8,No
+544,Bandhavgarh,C04-BTR21-040,C04-BTR21-040-SL02,SALIVA,Post predation,Summer,Tiger,7,7,No
+545,Bandhavgarh,C04-BTR21-050,C04-BTR21-050-SH01,SHED HAIR,Post predation,Monsoon,Tiger,35,32,No
+546,Bandhavgarh,C04-BTR21-050,C04-BTR21-050-SH02,SHED HAIR,Predation,Monsoon,Tiger,0,0,No
+547,Bandhavgarh,C04-BTR21-051,C04-BTR21-051-SH01,SHED HAIR,Predation,Monsoon,Tiger,3,3,No
+548,Bandhavgarh,C04-BTR21-051,C04-BTR21-051-SH02,SHED HAIR,Post predation,Monsoon,Tiger,4,4,No
+549,Bandhavgarh,C04-BTR21-051,C04-BTR21-051-SH03,SHED HAIR,Post predation,Monsoon,NA,NA,NA,NA
+550,Bandhavgarh,C04-BTR21-053,C04-BTR21-053-SH01,SHED HAIR,Post predation,Monsoon,Tiger,74,70,Yes
+551,Bandhavgarh,C04-BTR21-053,C04-BTR21-053-SH02,SHED HAIR,Post predation,Monsoon,Tiger,4,4,No
+552,Bandhavgarh,C04-BTR21-053,C04-BTR21-053-SH03,SHED HAIR,Post predation,Monsoon,Tiger,62,57,Yes
+553,Bandhavgarh,C04-BTR21-053,C04-BTR21-053-SH04,SHED HAIR,Post predation,Monsoon,Tiger,84,78,Yes
+554,Bandhavgarh,C04-BTR21-054,C04-BTR21-054-SH01,SHED HAIR,Post predation,Monsoon,Tiger,67,63,Yes
+555,Bandhavgarh,C04-BTR21-054,C04-BTR21-054-SH02,SHED HAIR,Predation,Monsoon,Tiger,6,6,No
+556,Bandhavgarh,C04-BTR21-066,C04-BTR21-066-SH01,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+557,Bandhavgarh,C04-BTR21-066,C04-BTR21-066-SH02,SHED HAIR,Predation,Monsoon,NA,NA,NA,NA
+558,Bandhavgarh,C04-BTR21-066,C04-BTR21-066-SL01,SALIVA,Post predation,Monsoon,Tiger,6,6,No
+559,Bandhavgarh,C04-BTR21-074,C04-BTR21-074-SH02,SHED HAIR,Post predation,Monsoon,Tiger,56,52,Yes
+560,Bandhavgarh,C04-BTR21-074,C04-BTR21-074-SL01,SALIVA,Post predation,Monsoon,Tiger,4,4,No
+561,Bandhavgarh,C04-BTR21-075,C04-BTR21-075-SH01,SHED HAIR,Post predation,Monsoon,Tiger,64,60,Yes
+562,Bandhavgarh,C04-BTR21-075,C04-BTR21-075-SH02,SHED HAIR,Predation,Monsoon,Tiger,5,5,No
+563,Bandhavgarh,C04-BTR21-075,C04-BTR21-075-SH03-A-B,SHED HAIR,Post predation,Monsoon,Tiger,6,6,No
+564,Bandhavgarh,C04-BTR21-075,C04-BTR21-075-SH04,SHED HAIR,Post predation,Monsoon,Tiger,62,58,Yes
+565,Bandhavgarh,C04-BTR21-075,C04-BTR21-075-SH05,SHED HAIR,Post predation,Monsoon,NA,NA,NA,NA
+566,Bandhavgarh,C04-BTR21-076,C04-BTR21-076-SH01,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+567,Bandhavgarh,C04-BTR21-077,C04-BTR21-077-SH01,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+568,Bandhavgarh,C04-BTR21-077,C04-BTR21-077-SH02,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+569,Bandhavgarh,C04-BTR21-077,C04-BTR21-077-SH03,SHED HAIR,Post predation,Monsoon,Tiger,4,4,No
+570,Bandhavgarh,C04-BTR21-077,C04-BTR21-077-SH04,SHED HAIR,Predation,Monsoon,Tiger,5,5,No
+571,Bandhavgarh,C04-BTR21-078,C04-BTR21-078-SH01,SHED HAIR,Post predation,Monsoon,Tiger,85,78,Yes
+572,Bandhavgarh,C04-BTR21-078,C04-BTR21-078-SH02,SHED HAIR,Predation,Monsoon,NA,NA,NA,NA
+573,Bandhavgarh,C04-BTR21-078,C04-BTR21-078-SL01,SALIVA,Predation,Monsoon,Tiger,5,5,No
+574,Bandhavgarh,C04-BTR21-078,C04-BTR21-078-SL02,SALIVA,Post predation,Monsoon,Tiger,66,61,Yes
+575,Bandhavgarh,C04-BTR21-078,C04-BTR21-078-SL03,SALIVA,Post predation,Monsoon,Tiger,8,8,No
+576,Bandhavgarh,C04-BTR21-079,C04-BTR21-079-SH02,SHED HAIR,Post predation,Monsoon,Tiger,1,1,No
+577,Bandhavgarh,C04-BTR21-079,C04-BTR21-079-SH03,SHED HAIR,Post predation,Monsoon,Tiger,5,5,No
+578,Bandhavgarh,C04-BTR21-083,C04-BTR21-083-SL01,SALIVA,Post predation,Monsoon,Tiger,5,5,No
+579,Bandhavgarh,C04-BTR21-085,C04-BTR21-085-SH02,SHED HAIR,Post predation,Monsoon,Tiger,4,4,No
+580,Bandhavgarh,C04-BTR21-085,C04-BTR21-085-SH03,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+581,Bandhavgarh,C04-BTR21-086,C04-BTR21-086-SH01,SHED HAIR,Predation,Monsoon,Tiger,4,4,No
+582,Bandhavgarh,C04-BTR21-087,C04-BTR21-087-SC01-A-B,SCAT,Post predation,Monsoon,Tiger,88,80,Yes
+583,Bandhavgarh,C04-BTR21-087,C04-BTR21-087-SC02-A-B,SCAT,Post predation,Monsoon,Tiger,4,4,No
+584,Bandhavgarh,C04-BTR21-087,C04-BTR21-087-SH01,SHED HAIR,Predation,Monsoon,Tiger,72,67,Yes
+585,Bandhavgarh,C04-BTR21-087,C04-BTR21-087-SH02,SHED HAIR,Post predation,Monsoon,Tiger,60,56,Yes
+586,Bandhavgarh,C04-BTR21-087,C04-BTR21-087-SL01,SALIVA,Post predation,Monsoon,Tiger,79,74,Yes
+587,Bandhavgarh,C04-BTR21-088,C04-BTR21-088-SC01-A-B,SCAT,Post predation,Monsoon,Tiger,31,30,No
+588,Bandhavgarh,C04-BTR21-088,C04-BTR21-088-SC02-A-B,SCAT,Post predation,Monsoon,Tiger,8,8,No
+589,Bandhavgarh,C04-BTR21-088,C04-BTR21-088-SC03-A-B,SCAT,Post predation,Monsoon,Tiger,31,31,No
+590,Bandhavgarh,C04-BTR21-088,C04-BTR21-088-SH02,SHED HAIR,Post predation,Monsoon,Tiger,6,6,No
+591,Bandhavgarh,C04-BTR21-088,C04-BTR21-088-SL01,SALIVA,Predation,Monsoon,Tiger,7,7,No
+592,Bandhavgarh,C04-BTR21-088,C04-BTR21-088-SL02,SALIVA,Predation,Monsoon,Tiger,40,38,No
+593,Bandhavgarh,C04-BTR21-089,C04-BTR21-089-SC01,SCAT,Post predation,Monsoon,Tiger,71,67,Yes
+594,Bandhavgarh,C04-BTR21-089,C04-BTR21-089-SH01,SHED HAIR,Predation,Monsoon,Tiger,0,0,No
+595,Bandhavgarh,C04-BTR21-089,C04-BTR21-089-SH02,SHED HAIR,Post predation,Monsoon,Tiger,4,4,No
+596,Bandhavgarh,C04-BTR21-089,C04-BTR21-089-SH03,SHED HAIR,Post predation,Monsoon,Tiger,4,4,No
+597,Bandhavgarh,C04-BTR21-089,C04-BTR21-089-SL01,SALIVA,Post predation,Monsoon,Tiger,6,6,No
+598,Bandhavgarh,C04-BTR21-089,C04-BTR21-089-SL02,SALIVA,Post predation,Monsoon,Tiger,5,5,No
+599,Bandhavgarh,C04-BTR21-090,C04-BTR21-090-SH01,SHED HAIR,Post predation,Monsoon,Tiger,49,47,Yes
+600,Bandhavgarh,C04-BTR21-090,C04-BTR21-090-SL01,SALIVA,Post predation,Monsoon,Tiger,3,3,No
+601,Bandhavgarh,C04-BTR21-090,C04-BTR21-090-SL02,SALIVA,Post predation,Monsoon,Tiger,105,93,Yes
+602,Bandhavgarh,C04-BTR21-091,C04-BTR21-091-SH01,SHED HAIR,Post predation,Monsoon,Tiger,93,84,Yes
+603,Bandhavgarh,C04-BTR21-091,C04-BTR21-091-SH02,SHED HAIR,Post predation,Monsoon,Tiger,98,85,Yes
+604,Bandhavgarh,C04-BTR21-091,C04-BTR21-091-SH03,SHED HAIR,Post predation,Monsoon,Tiger,65,61,Yes
+605,Bandhavgarh,C04-BTR21-091,C04-BTR21-091-SH04,SHED HAIR,Predation,Monsoon,Tiger,101,90,Yes
+606,Bandhavgarh,C04-BTR21-092,C04-BTR21-092-SH01,SHED HAIR,Post predation,Monsoon,Tiger,100,91,Yes
+607,Bandhavgarh,C04-BTR21-092,C04-BTR21-092-SH02,SHED HAIR,Post predation,Monsoon,Tiger,6,6,No
+608,Bandhavgarh,C04-BTR21-092,C04-BTR21-092-SL01,SALIVA,Predation,Monsoon,Tiger,5,5,No
+609,Bandhavgarh,C04-BTR21-092,C04-BTR21-092-SL02,SALIVA,Post predation,Monsoon,Tiger,61,57,Yes
+610,Bandhavgarh,C04-BTR21-102,C04-BTR21-102-SH01,SHED HAIR,Post predation,Monsoon,Tiger,62,58,Yes
+611,Bandhavgarh,C04-BTR21-102,C04-BTR21-102-SH02,SHED HAIR,Post predation,Monsoon,Tiger,74,67,Yes
+612,Bandhavgarh,C04-BTR21-102,C04-BTR21-102-SH03,SHED HAIR,Predation,Monsoon,Tiger,86,78,Yes
+613,Bandhavgarh,C04-BTR21-119,C04-BTR21-119-SH01,SHED HAIR,Predation,Winter,Tiger,4,4,No
+614,Bandhavgarh,C04-BTR21-119,C04-BTR21-119-SH02,SHED HAIR,Post predation,Winter,Tiger,52,50,Yes
+615,Bandhavgarh,C04-BTR21-119,C04-BTR21-119-SH03,SHED HAIR,Post predation,Winter,Tiger,92,83,Yes
+616,Bandhavgarh,C04-BTR21-123,C04-BTR21-123-SH01,SHED HAIR,Predation,Winter,Tiger,85,77,Yes
+617,Bandhavgarh,C04-BTR21-123,C04-BTR21-123-SH02,SHED HAIR,Post predation,Winter,Tiger,73,68,Yes
+618,Bandhavgarh,C04-BTR21-123,C04-BTR21-123-SH03,SHED HAIR,Post predation,Winter,Tiger,59,55,Yes
+619,Bandhavgarh,C04-BTR21-123,C04-BTR21-123-SH04,SHED HAIR,Post predation,Winter,Tiger,73,67,Yes
+620,Bandhavgarh,C04-BTR21-125,C04-BTR21-125-SH01,SHED HAIR,Predation,Winter,Tiger,78,72,Yes
+621,Bandhavgarh,C04-BTR21-125,C04-BTR21-125-SH02,SHED HAIR,Post predation,Winter,Tiger,53,51,Yes
+622,Bandhavgarh,C04-BTR21-125,C04-BTR21-125-SH03,SHED HAIR,Post predation,Winter,Tiger,64,60,Yes
+623,Bandhavgarh,C04-BTR21-125,C04-BTR21-125-SH04,SHED HAIR,Post predation,Winter,Tiger,58,55,Yes
+624,Bandhavgarh,C04-BTR21-125,C04-BTR21-125-SH05,SHED HAIR,Post predation,Winter,Tiger,67,64,Yes
+625,Bandhavgarh,C04-BTR21-125,C04-BTR21-125-SL01,SALIVA,Post predation,Winter,Tiger,4,4,No
+626,Bandhavgarh,C04-BTR21-125,C04-BTR21-125-SL02,SALIVA,Post predation,Winter,Tiger,4,4,No
+627,Bandhavgarh,C04-BTR21-126,C04-BTR21-126-SC01-A-B,SCAT,Post predation,Winter,Tiger,6,6,No
+628,Bandhavgarh,C04-BTR21-126,C04-BTR21-126-SH01,SHED HAIR,Post predation,Winter,Tiger,43,41,Yes
+629,Bandhavgarh,C04-BTR21-126,C04-BTR21-126-SH02,SHED HAIR,Post predation,Winter,Tiger,24,22,No
+630,Bandhavgarh,C04-BTR21-126,C04-BTR21-126-SH03,SHED HAIR,Predation,Winter,Tiger,58,55,Yes
+631,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SH01,SHED HAIR,Predation,Winter,Tiger,3,3,No
+632,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SH02,SHED HAIR,Post predation,Winter,Tiger,0,0,No
+633,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SH03,SHED HAIR,Post predation,Winter,Tiger,42,41,Yes
+634,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SH04,SHED HAIR,Post predation,Winter,Tiger,73,67,Yes
+635,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SH05,SHED HAIR,Predation,Winter,Tiger,31,30,No
+636,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SH06,SHED HAIR,Post predation,Winter,Tiger,27,26,No
+637,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SL01,SALIVA,Post predation,Winter,Tiger,68,60,Yes
+638,Bandhavgarh,C04-BTR21-127,C04-BTR21-127-SL02,SALIVA,Post predation,Winter,Tiger,49,47,Yes
+639,Bandhavgarh,C04-BTR21-129,C04-BTR21-129-SH01,SHED HAIR,Post predation,Winter,Tiger,33,32,No
+640,Bandhavgarh,C04-BTR21-129,C04-BTR21-129-SL01,SALIVA,Predation,Winter,NA,NA,NA,NA
+641,Bandhavgarh,C04-BTR21-129,C04-BTR21-129-SL02,SALIVA,Post predation,Winter,Tiger,54,51,Yes
+642,Bandhavgarh,C04-BTR21-130,C04-BTR21-130-SH01,SHED HAIR,Predation,Winter,Tiger,35,33,No
+643,Bandhavgarh,C04-BTR21-130,C04-BTR21-130-SH02,SHED HAIR,Post predation,Winter,Tiger,76,70,Yes
+644,Bandhavgarh,C04-BTR21-130,C04-BTR21-130-SL01,SALIVA,Post predation,Winter,NA,NA,NA,NA
+645,Bandhavgarh,C04-BTR21-130,C04-BTR21-130-SL02,SALIVA,Predation,Winter,Tiger,4,4,No
+646,Bandhavgarh,C04-BTR21-131,C04-BTR21-131-SH01,SHED HAIR,Predation,Winter,Tiger,67,63,Yes
+647,Bandhavgarh,C04-BTR21-131,C04-BTR21-131-SL01,SALIVA,Predation,Winter,Tiger,97,88,Yes
+648,Bandhavgarh,C04-BTR21-131,C04-BTR21-131-SL02,SALIVA,Post predation,Winter,Tiger,57,55,Yes
+649,Bandhavgarh,C04-BTR21-132,C04-BTR21-132-SC01-A-B,SCAT,Post predation,Winter,Tiger,63,61,Yes
+650,Bandhavgarh,C04-BTR21-132,C04-BTR21-132-SH01,SHED HAIR,Post predation,Winter,Tiger,76,68,Yes
+651,Bandhavgarh,C04-BTR21-132,C04-BTR21-132-SH02,SHED HAIR,Post predation,Winter,Tiger,24,22,No
+652,Bandhavgarh,C04-BTR21-132,C04-BTR21-132-SH03,SHED HAIR,Predation,Winter,Tiger,0,0,No
+653,Bandhavgarh,C04-BTR21-132,C04-BTR21-132-SL01,SALIVA,Post predation,Winter,Tiger,98,91,Yes
+654,Bandhavgarh,C04-BTR21-132,C04-BTR21-132-SL02,SALIVA,Post predation,Winter,Tiger,99,89,Yes
+655,Bandhavgarh,C04-BTR21-132,C04-BTR21-132-SL03,SALIVA,Post predation,Winter,Tiger,107,93,Yes
+656,Bandhavgarh,C04-BTR21-094,C04-BTR21-94-SH01,SHED HAIR,Post predation,Monsoon,Tiger,69,63,Yes
+657,Bandhavgarh,C04-BTR21-094,C04-BTR21-94-SH02,SHED HAIR,Post predation,Monsoon,Tiger,79,72,Yes
+658,Bandhavgarh,C04-BTR21-094,C04-BTR21-94-SH03,SHED HAIR,Post predation,Monsoon,Tiger,62,58,Yes
+659,Bandhavgarh,C04-BTR21-094,C04-BTR21-94-SH04,SHED HAIR,Predation,Monsoon,Tiger,64,60,Yes
+660,Bandhavgarh,C04-BTR21-095,C04-BTR21-95-SH01,SHED HAIR,Predation,Monsoon,Tiger,4,4,No
+661,Bandhavgarh,C04-BTR21-095,C04-BTR21-95-SH02,SHED HAIR,Post predation,Monsoon,Tiger,68,64,Yes
+662,Bandhavgarh,C04-BTR21-095,C04-BTR21-95-SH03,SHED HAIR,Post predation,Monsoon,Tiger,38,35,No
+663,Bandhavgarh,C04-BTR21-097,C04-BTR21-97-SH01,SHED HAIR,Post predation,Monsoon,Tiger,60,56,Yes
+664,Bandhavgarh,C04-BTR21-097,C04-BTR21-97-SH02,SHED HAIR,Post predation,Monsoon,Tiger,69,64,Yes
+665,Bandhavgarh,C04-BTR21-097,C04-BTR21-97-SH03,SHED HAIR,Predation,Monsoon,Tiger,0,0,No
+666,Bandhavgarh,C04-BTR21-097,C04-BTR21-97-SH04,SHED HAIR,Post predation,Monsoon,Tiger,0,0,No
+667,Bandhavgarh,C04-BTR21-99,C04-BTR21-99-SH01,SHED HAIR,Predation,Monsoon,Tiger,97,83,Yes
+668,Bandhavgarh,C04-BTR21-99,C04-BTR21-99-SH02,SHED HAIR,Post predation,Monsoon,Tiger,101,89,Yes
+669,Bandhavgarh,C04-BTR21-99,C04-BTR21-99-SH03,SHED HAIR,Post predation,Monsoon,Tiger,71,66,Yes
+670,Bandhavgarh,C04-BTR21-99,C04-BTR21-99-SH04,SHED HAIR,Post predation,Monsoon,Tiger,103,89,Yes
+671,Bandhavgarh,C04-BTR22-133,C04-BTR22-133-SH01,SHED HAIR,Predation,Winter,Tiger,53,50,Yes
+672,Bandhavgarh,C04-BTR22-133,C04-BTR22-133-SL01,SALIVA,Predation,Winter,Tiger,39,39,No
+673,Bandhavgarh,C04-BTR22-133,C04-BTR22-133-SL02,SALIVA,Post predation,Winter,Tiger,4,4,No
+674,Bandhavgarh,C04-BTR22-134,C04-BTR22-134-SH01,SHED HAIR,Post predation,Winter,Tiger,6,6,No
+675,Bandhavgarh,C04-BTR22-134,C04-BTR22-134-SL01,SALIVA,Post predation,Winter,Tiger,0,0,No
+676,Bandhavgarh,C04-BTR22-134,C04-BTR22-134-SL02,SALIVA,Predation,Winter,Tiger,6,6,No
+677,Bandhavgarh,C04-BTR22-135,C04-BTR22-135-SH01,SHED HAIR,Post predation,Winter,Tiger,61,57,Yes
+678,Bandhavgarh,C04-BTR22-135,C04-BTR22-135-SH02,SHED HAIR,Post predation,Winter,Tiger,54,50,Yes
+679,Bandhavgarh,C04-BTR22-135,C04-BTR22-135-SL01,SALIVA,Predation,Winter,Tiger,74,69,Yes
+680,Bandhavgarh,C04-BTR22-135,C04-BTR22-135-SL02,SALIVA,Post predation,Winter,Tiger,47,43,Yes
+681,Bandhavgarh,C04-BTR22-136,C04-BTR22-136-SH01,SHED HAIR,Post predation,Winter,Tiger,59,54,Yes
+682,Bandhavgarh,C04-BTR22-136,C04-BTR22-136-SL01,SALIVA,Predation,Winter,Tiger,12,12,No
+683,Bandhavgarh,C04-BTR22-136,C04-BTR22-136-SL02,SALIVA,Post predation,Winter,Tiger,3,3,No
+684,Bandhavgarh,C04-BTR22-137,C04-BTR22-137-SH01,SHED HAIR,Post predation,Winter,Tiger,2,2,No
+685,Bandhavgarh,C04-BTR22-137,C04-BTR22-137-SH02,SHED HAIR,Predation,Winter,Tiger,68,63,Yes
+686,Bandhavgarh,C04-BTR22-137,C04-BTR22-137-SL01,SALIVA,Post predation,Winter,NA,NA,NA,NA
+687,Bandhavgarh,C04-BTR22-137,C04-BTR22-137-SL02,SALIVA,Post predation,Winter,NA,NA,NA,NA
+688,Bandhavgarh,C04-BTR22-138,C04-BTR22-138-SH01,SHED HAIR,Post predation,Winter,NA,NA,NA,NA
+689,Bandhavgarh,C04-BTR22-138,C04-BTR22-138-SL01,SALIVA,Predation,Winter,Tiger,68,65,Yes
+690,Bandhavgarh,C04-BTR22-138,C04-BTR22-138-SL02,SALIVA,Post predation,Winter,Tiger,84,77,Yes
+691,Bandhavgarh,C04-BTR22-139,C04-BTR22-139-SH01,SHED HAIR,Predation,Winter,Tiger,56,52,Yes
+692,Bandhavgarh,C04-BTR22-139,C04-BTR22-139-SH02,SHED HAIR,Post predation,Winter,Tiger,106,92,Yes
+693,Bandhavgarh,C04-BTR22-139,C04-BTR22-139-SH03,SHED HAIR,Post predation,Winter,Tiger,51,48,Yes
+694,Bandhavgarh,C04-BTR22-139,C04-BTR22-139-SL01,SALIVA,Predation,Winter,Tiger,91,82,Yes
+695,Bandhavgarh,C04-BTR22-139,C04-BTR22-139-SL02,SALIVA,Post predation,Winter,Tiger,94,86,Yes
+696,Bandhavgarh,C04-BTR22-144,C04-BTR22-144-SH01,SHED HAIR,Post predation,Winter,Tiger,68,64,Yes
+697,Bandhavgarh,C04-BTR22-144,C04-BTR22-144-SH02,SHED HAIR,Post predation,Winter,Tiger,75,68,Yes
+698,Bandhavgarh,C04-BTR22-144,C04-BTR22-144-SL01,SALIVA,Predation,Winter,Tiger,95,86,Yes
+699,Bandhavgarh,C04-BTR22-144,C04-BTR22-144-SL02,SALIVA,Post predation,Winter,Tiger,102,90,Yes
+700,Bandhavgarh,C04-BTR22-145,C04-BTR22-145-SH01,SHED HAIR,Post predation,Winter,Tiger,58,54,Yes
+701,Bandhavgarh,C04-BTR22-145,C04-BTR22-145-SH02,SHED HAIR,Post predation,Winter,Tiger,47,45,Yes
+702,Bandhavgarh,C04-BTR22-145,C04-BTR22-145-SH03,SHED HAIR,Predation,Winter,Tiger,80,74,Yes
+703,Bandhavgarh,C04-BTR22-145,C04-BTR22-145-SH04,SHED HAIR,Post predation,Winter,Tiger,56,52,Yes
+704,Bandhavgarh,C04-BTR22-145,C04-BTR22-145-SL01,SALIVA,Predation,Winter,Tiger,47,46,Yes
+705,Bandhavgarh,C04-BTR22-145,C04-BTR22-145-SL02,SALIVA,Post predation,Winter,Tiger,6,6,No
+706,Bandhavgarh,C04-BTR22-147,C04-BTR22-147-SH01,SHED HAIR,Predation,Winter,Tiger,0,0,No
+707,Bandhavgarh,C04-BTR22-147,C04-BTR22-147-SH02,SHED HAIR,Post predation,Winter,Tiger,66,62,Yes
+708,Bandhavgarh,C04-BTR22-147,C04-BTR22-147-SH03,SHED HAIR,Post predation,Winter,Tiger,74,70,Yes
+709,Bandhavgarh,C04-BTR22-147,C04-BTR22-147-SH04,SHED HAIR,Post predation,Winter,Tiger,4,4,No
+710,Bandhavgarh,C04-BTR22-147,C04-BTR22-147-SL01,SALIVA,Predation,Winter,Tiger,87,81,Yes
+711,Bandhavgarh,C04-BTR22-147,C04-BTR22-147-SL02,SALIVA,Post predation,Winter,Tiger,50,47,Yes
+712,Bandhavgarh,C04-BTR22-148,C04-BTR22-148-SH01,SHED HAIR,Post predation,Winter,Tiger,31,30,No
+713,Bandhavgarh,C04-BTR22-148,C04-BTR22-148-SH02,SHED HAIR,Predation,Winter,Tiger,65,61,Yes
+714,Bandhavgarh,C04-BTR22-148,C04-BTR22-148-SL01,SALIVA,Predation,Winter,Tiger,4,4,No
+715,Bandhavgarh,C04-BTR22-149,C04-BTR22-149-SH01,SHED HAIR,Predation,Winter,Tiger,58,54,Yes
+716,Bandhavgarh,C04-BTR22-149,C04-BTR22-149-SH02,SHED HAIR,Post predation,Winter,Tiger,28,27,No
+717,Bandhavgarh,C04-BTR22-149,C04-BTR22-149-SL01,SALIVA,Predation,Winter,Tiger,4,4,No
+718,Bandhavgarh,C04-BTR22-149,C04-BTR22-149-SL02,SALIVA,Post predation,Winter,Tiger,100,90,Yes
+719,Bandhavgarh,C04-BTR22-151,C04-BTR22-151-SH01,SHED HAIR,Predation,Winter,Tiger,12,12,No
+720,Bandhavgarh,C04-BTR22-151,C04-BTR22-151-SH02,SHED HAIR,Post predation,Winter,Tiger,35,33,No
+721,Bandhavgarh,C04-BTR22-151,C04-BTR22-151-SL01,SALIVA,Predation,Winter,Tiger,60,59,Yes
+722,Bandhavgarh,C04-BTR22-151,C04-BTR22-151-SL02,SALIVA,Post predation,Winter,Tiger,47,44,Yes
+723,Bandhavgarh,C04-BTR22-152,C04-BTR22-152-SH01,SHED HAIR,Post predation,Winter,Tiger,4,4,No
+724,Bandhavgarh,C04-BTR22-152,C04-BTR22-152-SH02,SHED HAIR,Predation,Winter,Tiger,64,59,Yes
+725,Bandhavgarh,C04-BTR22-152,C04-BTR22-152-SL01,SALIVA,Predation,Winter,Tiger,2,2,No
+726,Bandhavgarh,C04-BTR22-159,C04-BTR22-159-SH01,SHED HAIR,Post predation,Summer,Tiger,0,0,No
+727,Bandhavgarh,C04-BTR22-159,C04-BTR22-159-SH02,SHED HAIR,Post predation,Summer,Tiger,33,31,No
+728,Bandhavgarh,C04-BTR22-159,C04-BTR22-159-SH03,SHED HAIR,Predation,Summer,Tiger,5,5,No
+729,Bandhavgarh,C04-BTR22-163,C04-BTR22-163-SH01,SHED HAIR,Post predation,Summer,Tiger,60,57,Yes
+730,Bandhavgarh,C04-BTR22-163,C04-BTR22-163-SH02,SHED HAIR,Post predation,Summer,Tiger,5,5,No
+731,Bandhavgarh,C04-BTR22-163,C04-BTR22-163-SH03,SHED HAIR,Predation,Summer,Tiger,13,13,No
+732,Bandhavgarh,C04-BTR22-166,C04-BTR22-166-SH01,SHED HAIR,Post predation,Summer,Tiger,65,60,Yes
+733,Bandhavgarh,C04-BTR22-166,C04-BTR22-166-SH02,SHED HAIR,Post predation,Summer,Tiger,28,28,No
+734,Bandhavgarh,C04-BTR22-166,C04-BTR22-166-SH03,SHED HAIR,Post predation,Summer,Tiger,63,58,Yes
+735,Bandhavgarh,C04-BTR22-166,C04-BTR22-166-SH04,SHED HAIR,Predation,Summer,Tiger,53,49,Yes
+736,Bandhavgarh,C04-BTR22-167,C04-BTR22-167-SH01,SHED HAIR,Post predation,Summer,Tiger,27,26,No
+737,Bandhavgarh,C04-BTR22-167,C04-BTR22-167-SH02,SHED HAIR,Post predation,Summer,Tiger,53,50,Yes
+738,Bandhavgarh,C04-BTR22-167,C04-BTR22-167-SH03,SHED HAIR,Predation,Summer,Tiger,17,16,No
+739,Bandhavgarh,C04-BTR22-168,C04-BTR22-168-SH01,SHED HAIR,Predation,Summer,Tiger,60,58,Yes
+740,Bandhavgarh,C04-BTR22-168,C04-BTR22-168-SH02,SHED HAIR,Post predation,Summer,Tiger,45,43,Yes
+741,Bandhavgarh,C04-BTR22-168,C04-BTR22-168-SH03,SHED HAIR,Post predation,Summer,Tiger,25,24,No
+742,Bandhavgarh,C04-BTR22-168,C04-BTR22-168-SH04,SHED HAIR,Post predation,Summer,Tiger,54,52,Yes
+743,Bandhavgarh,C04-BTR22-169,C04-BTR22-169-SH01,SHED HAIR,Post predation,Summer,Tiger,6,6,No
+744,Bandhavgarh,C04-BTR22-169,C04-BTR22-169-SH02,SHED HAIR,Post predation,Summer,Tiger,29,27,No
+745,Bandhavgarh,C04-BTR22-169,C04-BTR22-169-SH03,SHED HAIR,Post predation,Summer,NA,NA,NA,NA
+746,Bandhavgarh,C04-BTR22-175,C04-BTR22-175-SH03,SHED HAIR,Post predation,Summer,Tiger,5,5,No
+747,Bandhavgarh,C04-BTR22-175,C04-BTR22-175-SH04,SHED HAIR,Post predation,Summer,Tiger,25,25,No
+748,Bandhavgarh,C04-BTR22-177,C04-BTR22-177-SH01,SHED HAIR,Predation,Summer,Tiger,73,68,Yes
+749,Bandhavgarh,C04-BTR22-177,C04-BTR22-177-SH02,SHED HAIR,Post predation,Summer,Tiger,50,47,Yes
+750,Bandhavgarh,C04-BTR22-177,C04-BTR22-177-SH03,SHED HAIR,Post predation,Summer,Tiger,0,0,No
+751,Bandhavgarh,C04-BTR22-178,C04-BTR22-178-SH01,SHED HAIR,Predation,Summer,Tiger,7,7,No
+752,Bandhavgarh,C04-BTR22-178,C04-BTR22-178-SH02,SHED HAIR,Post predation,Summer,Tiger,99,89,Yes
+753,Bandhavgarh,C04-BTR22-178,C04-BTR22-178-SH03,SHED HAIR,Post predation,Summer,Tiger,81,76,Yes
+754,Bandhavgarh,C04-BTR22-178,C04-BTR22-178-SL01,SALIVA,Post predation,Summer,Tiger,81,75,Yes
+755,Bandhavgarh,C04-BTR22-178,C04-BTR22-178-SL02,SALIVA,Post predation,Summer,Tiger,60,56,Yes
+756,Bandhavgarh,C04-BTR22-178,C04-BTR22-178-SL03,SALIVA,Post predation,Summer,Tiger,69,65,Yes
+757,Bandhavgarh,C04-BTR22-179,C04-BTR22-179-SH01,SHED HAIR,Post predation,Summer,Tiger,4,4,No
+758,Bandhavgarh,C04-BTR22-179,C04-BTR22-179-SH02,SHED HAIR,Post predation,Summer,Tiger,95,88,Yes
+759,Bandhavgarh,C04-BTR22-179,C04-BTR22-179-SH03,SHED HAIR,Post predation,Summer,Tiger,7,6,No
+760,Bandhavgarh,C04-BTR22-179,C04-BTR22-179-SL01,SALIVA,Predation,Summer,Tiger,3,3,No
+761,Bandhavgarh,C04-BTR22-179,C04-BTR22-179-SL02,SALIVA,Post predation,Summer,Tiger,4,4,No
+762,Bandhavgarh,C04-BTR22-179,C04-BTR22-179-SL03,SALIVA,Post predation,Summer,Tiger,34,32,No
+763,Bandhavgarh,C04-BTR22-181,C04-BTR22-181-SH01,SHED HAIR,Predation,Summer,Tiger,61,58,Yes
+764,Bandhavgarh,C04-BTR22-181,C04-BTR22-181-SH02,SHED HAIR,Post predation,Summer,Tiger,72,68,Yes
+765,Bandhavgarh,C04-BTR22-181,C04-BTR22-181-SL01,SALIVA,Predation,Summer,Tiger,103,92,Yes
+766,Bandhavgarh,C04-BTR22-181,C04-BTR22-181-SL02,SALIVA,Post predation,Summer,Tiger,52,49,Yes
+767,Bandhavgarh,C04-BTR22-181,C04-BTR22-181-SL03,SALIVA,Post predation,Summer,Tiger,81,75,Yes
+768,Bandhavgarh,C04-BTR22-182,C04-BTR22-182-SH01,SHED HAIR,Post predation,Summer,Tiger,105,93,Yes
+769,Bandhavgarh,C04-BTR22-182,C04-BTR22-182-SH02,SHED HAIR,Predation,Summer,Tiger,108,93,Yes
+770,Bandhavgarh,C04-BTR22-182,C04-BTR22-182-SL01,SALIVA,Predation,Summer,Tiger,105,91,Yes
